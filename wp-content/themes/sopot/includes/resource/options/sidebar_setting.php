@@ -1,0 +1,17 @@
+<?php
+
+return array(
+
+    'title'         => esc_html__( 'Custom Sidebar Settings', 'sopot' ),
+    'id'            => 'sidebar_setting',
+    'desc'          => '',
+    'fields'        => array(
+        array(
+            'id' => 'custom_sidebar_name',
+            'type' => 'multi_text',
+            'title' => esc_html__('Dynamic Custom Sidebar', 'sopot'),
+            'desc' => esc_html__('This section is used to create custom sidebar', 'sopot')
+            ),
+    ),
+);
+

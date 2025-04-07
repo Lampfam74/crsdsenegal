@@ -1,0 +1,71 @@
+<?php
+return array(
+	'title'      => esc_html__( 'Logo Setting', 'sopot' ),
+	'id'         => 'logo_setting',
+	'desc'       => '',
+	'subsection' => false,
+	'fields'     => array(
+		array(
+			'id'       => 'image_favicon',
+			'type'     => 'media',
+			'url'      => true,
+			'title'    => esc_html__( 'Favicon', 'sopot' ),
+			'subtitle' => esc_html__( 'Insert site favicon image', 'sopot' ),
+			'default'  => array( 'url' => get_template_directory_uri() . '/assets/images/favicons/favicon-32x32.png' ),
+		),
+		array(
+            'id' => 'normal_logo_show',
+            'type' => 'switch',
+            'title' => esc_html__('Enable Light Color Logo', 'sopot'),
+            'default' => true,
+        ),
+		array(
+			'id'       => 'light_logo',
+			'type'     => 'media',
+			'url'      => true,
+			'title'    => esc_html__( 'Light Color Logo Image', 'sopot' ),
+			'subtitle' => esc_html__( 'Insert site Light Color logo image', 'sopot' ),
+			'required' => array( 'normal_logo_show', '=', true ),
+			'default'  => array( 'url' => get_template_directory_uri() . '/assets/images/resources/logo-1.png' ),
+		),
+		array(
+			'id'       => 'light_logo_dimension',
+			'type'     => 'dimensions',
+			'title'    => esc_html__( 'Light Color Logo Dimentions', 'sopot' ),
+			'subtitle' => esc_html__( 'Select Light Color Logo Dimentions', 'sopot' ),
+			'units'    => array( 'em', 'px', '%' ),
+			'default'  => array( 'Width' => '', 'Height' => '' ),
+			'required' => array( 'normal_logo_show', '=', true ),
+		),
+		array(
+            'id' => 'normal_logo_show2',
+            'type' => 'switch',
+            'title' => esc_html__('Enable Dark Color Logo', 'sopot'),
+            'default' => true,
+        ),
+		array(
+			'id'       => 'dark_logo',
+			'type'     => 'media',
+			'url'      => true,
+			'title'    => esc_html__( 'Dark Color Logo Image', 'sopot' ),
+			'subtitle' => esc_html__( 'Insert site Dark Color logo image', 'sopot' ),
+			'required' => array( 'normal_logo_show2', '=', true ),
+			'default'  => array( 'url' => get_template_directory_uri() . '/assets/images/resources/logo-2.png' ),
+		),
+		array(
+			'id'       => 'dark_logo_dimension',
+			'type'     => 'dimensions',
+			'title'    => esc_html__( 'Dark Color Logo Dimentions', 'sopot' ),
+			'subtitle' => esc_html__( 'Select Dark Color Logo Dimentions', 'sopot' ),
+			'units'    => array( 'em', 'px', '%' ),
+			'default'  => array( 'Width' => '', 'Height' => '' ),
+			'required' => array( 'normal_logo_show2', '=', true ),
+		),
+	
+		array(
+			'id'       => 'logo_settings_section_end',
+			'type'     => 'section',
+			'indent'      => false,
+		),
+	),
+);
