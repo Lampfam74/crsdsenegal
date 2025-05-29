@@ -7,10 +7,12 @@
  * @author     thememx
  * @version    1.0
  */
-
+global $redux_builder_sopot;
+$options = isset($redux_builder_sopot) ? $redux_builder_sopot : null;
 $allowed_html = wp_kses_allowed_html( 'post' );
 
-$error_img   = $options->get( 'error_image' );
+
+$error_img   = $options ? $options->get('404_message') : 'Page non trouvée';
 $error_img   = sopot_set( $error_img, 'url', sopot_URI . 'assets/images/icons/error.png' );
 
 ?>

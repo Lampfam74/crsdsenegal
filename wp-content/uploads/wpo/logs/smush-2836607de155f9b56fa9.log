@@ -3013,3 +3013,1084 @@
 [2025-05-15 15:56:23 : INFO] - Successfully processed the queue (smush). 13 tasks were processed out of 13. 
 [2025-05-15 15:56:23 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
 [2025-05-15 15:56:23 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-16 12:13:03 : INFO] - Pruning the smush log file 
+[2025-05-17 01:31:36 : INFO] - Pruning the smush log file 
+[2025-05-18 14:23:44 : INFO] - Re_Smush_It_Task with attachment ID : 706, autocreated on : May 18, 2025 02:23:44 
+[2025-05-18 14:23:50 : INFO] - Re_Smush_It_Task with attachment ID : 707, autocreated on : May 18, 2025 02:23:50 
+[2025-05-18 14:23:55 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : May 18, 2025 02:23:55 
+[2025-05-18 14:24:01 : INFO] - Re_Smush_It_Task with attachment ID : 709, autocreated on : May 18, 2025 02:24:01 
+[2025-05-18 14:24:07 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : May 18, 2025 02:24:07 
+[2025-05-18 14:24:12 : INFO] - Re_Smush_It_Task with attachment ID : 711, autocreated on : May 18, 2025 02:24:12 
+[2025-05-18 14:24:18 : INFO] - Re_Smush_It_Task with attachment ID : 712, autocreated on : May 18, 2025 02:24:18 
+[2025-05-18 14:24:23 : INFO] - Re_Smush_It_Task with attachment ID : 713, autocreated on : May 18, 2025 02:24:23 
+[2025-05-18 14:24:28 : INFO] - Re_Smush_It_Task with attachment ID : 714, autocreated on : May 18, 2025 02:24:28 
+[2025-05-18 14:24:33 : INFO] - Re_Smush_It_Task with attachment ID : 715, autocreated on : May 18, 2025 02:24:33 
+[2025-05-18 14:24:38 : INFO] - Re_Smush_It_Task with attachment ID : 716, autocreated on : May 18, 2025 02:24:38 
+[2025-05-18 14:24:43 : INFO] - Re_Smush_It_Task with attachment ID : 717, autocreated on : May 18, 2025 02:24:43 
+[2025-05-18 14:24:51 : INFO] - Re_Smush_It_Task with attachment ID : 718, autocreated on : May 18, 2025 02:24:51 
+[2025-05-18 14:24:55 : INFO] - Re_Smush_It_Task with attachment ID : 719, autocreated on : May 18, 2025 02:24:55 
+[2025-05-18 14:25:00 : INFO] - Re_Smush_It_Task with attachment ID : 720, autocreated on : May 18, 2025 02:25:00 
+[2025-05-18 14:25:07 : INFO] - Re_Smush_It_Task with attachment ID : 721, autocreated on : May 18, 2025 02:25:07 
+[2025-05-18 14:25:12 : INFO] - Re_Smush_It_Task with attachment ID : 722, autocreated on : May 18, 2025 02:25:12 
+[2025-05-18 14:25:18 : INFO] - Re_Smush_It_Task with attachment ID : 723, autocreated on : May 18, 2025 02:25:18 
+[2025-05-18 14:28:44 : INFO] - A total of 18 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 14:28:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-05-18 14:28:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-05-18 14:28:44 : INFO] - Processing task with ID : 157, and type 'smush' 
+[2025-05-18 14:28:44 : INFO] - Re_Smush_It_Task with attachment ID : 706, autocreated on : May 18, 2025 02:23:44 
+[2025-05-18 14:28:44 : INFO] - File: 17.png, Compression quality: 92 
+[2025-05-18 14:28:45 : INFO] - Backing up the original image - 2025/05/17-updraft-pre-smush-original.png 
+[2025-05-18 14:28:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:28:51 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/17.png.The file was compressed from 1.99 MB to 547.52 KB, saving 73.08 percent, using WP-Optimize 
+[2025-05-18 14:28:51 : INFO] - Completed processing task with ID : 157, and type 'smush' 
+[2025-05-18 14:28:51 : INFO] - Processing task with ID : 158, and type 'smush' 
+[2025-05-18 14:28:51 : INFO] - Re_Smush_It_Task with attachment ID : 707, autocreated on : May 18, 2025 02:23:50 
+[2025-05-18 14:28:51 : INFO] - File: 18.png, Compression quality: 92 
+[2025-05-18 14:28:52 : INFO] - Backing up the original image - 2025/05/18-updraft-pre-smush-original.png 
+[2025-05-18 14:28:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:28:58 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/18.png.The file was compressed from 1.93 MB to 514.06 KB, saving 73.93 percent, using WP-Optimize 
+[2025-05-18 14:28:58 : INFO] - Completed processing task with ID : 158, and type 'smush' 
+[2025-05-18 14:28:58 : INFO] - Processing task with ID : 159, and type 'smush' 
+[2025-05-18 14:28:58 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : May 18, 2025 02:23:55 
+[2025-05-18 14:28:58 : INFO] - File: 16.png, Compression quality: 92 
+[2025-05-18 14:28:59 : INFO] - Backing up the original image - 2025/05/16-updraft-pre-smush-original.png 
+[2025-05-18 14:29:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:04 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/16.png.The file was compressed from 1.92 MB to 635.05 KB, saving 67.73 percent, using WP-Optimize 
+[2025-05-18 14:29:04 : INFO] - Completed processing task with ID : 159, and type 'smush' 
+[2025-05-18 14:29:04 : INFO] - Processing task with ID : 160, and type 'smush' 
+[2025-05-18 14:29:04 : INFO] - Re_Smush_It_Task with attachment ID : 709, autocreated on : May 18, 2025 02:24:01 
+[2025-05-18 14:29:04 : INFO] - File: 15.png, Compression quality: 92 
+[2025-05-18 14:29:05 : INFO] - Backing up the original image - 2025/05/15-updraft-pre-smush-original.png 
+[2025-05-18 14:29:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:12 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/15.png.The file was compressed from 2.16 MB to 573.27 KB, saving 74.07 percent, using WP-Optimize 
+[2025-05-18 14:29:12 : INFO] - Completed processing task with ID : 160, and type 'smush' 
+[2025-05-18 14:29:12 : INFO] - Processing task with ID : 161, and type 'smush' 
+[2025-05-18 14:29:12 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : May 18, 2025 02:24:07 
+[2025-05-18 14:29:12 : INFO] - File: 14.png, Compression quality: 92 
+[2025-05-18 14:29:13 : INFO] - Backing up the original image - 2025/05/14-updraft-pre-smush-original.png 
+[2025-05-18 14:29:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:18 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/14.png.The file was compressed from 1.93 MB to 584.85 KB, saving 70.44 percent, using WP-Optimize 
+[2025-05-18 14:29:18 : INFO] - Completed processing task with ID : 161, and type 'smush' 
+[2025-05-18 14:29:18 : INFO] - Processing task with ID : 162, and type 'smush' 
+[2025-05-18 14:29:18 : INFO] - Re_Smush_It_Task with attachment ID : 711, autocreated on : May 18, 2025 02:24:12 
+[2025-05-18 14:29:18 : INFO] - File: 13.png, Compression quality: 92 
+[2025-05-18 14:29:19 : INFO] - Backing up the original image - 2025/05/13-updraft-pre-smush-original.png 
+[2025-05-18 14:29:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:24 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/13.png.The file was compressed from 1.92 MB to 578.80 KB, saving 70.49 percent, using WP-Optimize 
+[2025-05-18 14:29:24 : INFO] - Completed processing task with ID : 162, and type 'smush' 
+[2025-05-18 14:29:24 : INFO] - Processing task with ID : 163, and type 'smush' 
+[2025-05-18 14:29:24 : INFO] - Re_Smush_It_Task with attachment ID : 712, autocreated on : May 18, 2025 02:24:18 
+[2025-05-18 14:29:24 : INFO] - File: 12.png, Compression quality: 92 
+[2025-05-18 14:29:25 : INFO] - Backing up the original image - 2025/05/12-updraft-pre-smush-original.png 
+[2025-05-18 14:29:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:30 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/12.png.The file was compressed from 2.01 MB to 571.33 KB, saving 72.18 percent, using WP-Optimize 
+[2025-05-18 14:29:30 : INFO] - Completed processing task with ID : 163, and type 'smush' 
+[2025-05-18 14:29:30 : INFO] - Processing task with ID : 164, and type 'smush' 
+[2025-05-18 14:29:30 : INFO] - Re_Smush_It_Task with attachment ID : 713, autocreated on : May 18, 2025 02:24:23 
+[2025-05-18 14:29:30 : INFO] - File: 11.png, Compression quality: 92 
+[2025-05-18 14:29:32 : INFO] - Backing up the original image - 2025/05/11-updraft-pre-smush-original.png 
+[2025-05-18 14:29:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:37 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/11.png.The file was compressed from 1.84 MB to 496.18 KB, saving 73.63 percent, using WP-Optimize 
+[2025-05-18 14:29:37 : INFO] - Completed processing task with ID : 164, and type 'smush' 
+[2025-05-18 14:29:37 : INFO] - Processing task with ID : 165, and type 'smush' 
+[2025-05-18 14:29:37 : INFO] - Re_Smush_It_Task with attachment ID : 714, autocreated on : May 18, 2025 02:24:28 
+[2025-05-18 14:29:37 : INFO] - File: 10.png, Compression quality: 92 
+[2025-05-18 14:29:38 : INFO] - Backing up the original image - 2025/05/10-updraft-pre-smush-original.png 
+[2025-05-18 14:29:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:44 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/10.png.The file was compressed from 1.68 MB to 472.69 KB, saving 72.57 percent, using WP-Optimize 
+[2025-05-18 14:29:44 : INFO] - Completed processing task with ID : 165, and type 'smush' 
+[2025-05-18 14:29:44 : INFO] - Processing task with ID : 166, and type 'smush' 
+[2025-05-18 14:29:44 : INFO] - Re_Smush_It_Task with attachment ID : 715, autocreated on : May 18, 2025 02:24:33 
+[2025-05-18 14:29:44 : INFO] - File: 9.png, Compression quality: 92 
+[2025-05-18 14:29:45 : INFO] - Backing up the original image - 2025/05/9-updraft-pre-smush-original.png 
+[2025-05-18 14:29:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:50 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/9.png.The file was compressed from 1.59 MB to 478.63 KB, saving 70.59 percent, using WP-Optimize 
+[2025-05-18 14:29:50 : INFO] - Completed processing task with ID : 166, and type 'smush' 
+[2025-05-18 14:29:50 : INFO] - Processing task with ID : 167, and type 'smush' 
+[2025-05-18 14:29:50 : INFO] - Re_Smush_It_Task with attachment ID : 716, autocreated on : May 18, 2025 02:24:38 
+[2025-05-18 14:29:50 : INFO] - File: 8.png, Compression quality: 92 
+[2025-05-18 14:29:51 : INFO] - Backing up the original image - 2025/05/8-updraft-pre-smush-original.png 
+[2025-05-18 14:29:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:29:57 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/8.png.The file was compressed from 2.04 MB to 600.19 KB, saving 71.26 percent, using WP-Optimize 
+[2025-05-18 14:29:57 : INFO] - Completed processing task with ID : 167, and type 'smush' 
+[2025-05-18 14:29:57 : INFO] - Processing task with ID : 168, and type 'smush' 
+[2025-05-18 14:29:57 : INFO] - Re_Smush_It_Task with attachment ID : 717, autocreated on : May 18, 2025 02:24:43 
+[2025-05-18 14:29:57 : INFO] - File: 7.png, Compression quality: 92 
+[2025-05-18 14:29:58 : INFO] - Backing up the original image - 2025/05/7-updraft-pre-smush-original.png 
+[2025-05-18 14:30:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:30:03 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/7.png.The file was compressed from 1.64 MB to 471.63 KB, saving 71.83 percent, using WP-Optimize 
+[2025-05-18 14:30:03 : INFO] - Completed processing task with ID : 168, and type 'smush' 
+[2025-05-18 14:30:03 : INFO] - Processing task with ID : 169, and type 'smush' 
+[2025-05-18 14:30:03 : INFO] - Re_Smush_It_Task with attachment ID : 718, autocreated on : May 18, 2025 02:24:51 
+[2025-05-18 14:30:03 : INFO] - File: 6.png, Compression quality: 92 
+[2025-05-18 14:30:05 : INFO] - Backing up the original image - 2025/05/6-updraft-pre-smush-original.png 
+[2025-05-18 14:30:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:30:11 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/6.png.The file was compressed from 2.04 MB to 552.99 KB, saving 73.52 percent, using WP-Optimize 
+[2025-05-18 14:30:11 : INFO] - Completed processing task with ID : 169, and type 'smush' 
+[2025-05-18 14:30:11 : INFO] - Processing task with ID : 170, and type 'smush' 
+[2025-05-18 14:30:11 : INFO] - Re_Smush_It_Task with attachment ID : 719, autocreated on : May 18, 2025 02:24:55 
+[2025-05-18 14:30:11 : INFO] - File: 5.png, Compression quality: 92 
+[2025-05-18 14:30:12 : INFO] - Backing up the original image - 2025/05/5-updraft-pre-smush-original.png 
+[2025-05-18 14:30:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:30:17 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/5.png.The file was compressed from 1.54 MB to 435.52 KB, saving 72.43 percent, using WP-Optimize 
+[2025-05-18 14:30:17 : INFO] - Completed processing task with ID : 170, and type 'smush' 
+[2025-05-18 14:30:17 : INFO] - Processing task with ID : 171, and type 'smush' 
+[2025-05-18 14:30:17 : INFO] - Re_Smush_It_Task with attachment ID : 720, autocreated on : May 18, 2025 02:25:00 
+[2025-05-18 14:30:17 : INFO] - File: 4.png, Compression quality: 92 
+[2025-05-18 14:30:18 : INFO] - Backing up the original image - 2025/05/4-updraft-pre-smush-original.png 
+[2025-05-18 14:30:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:30:23 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/4.png.The file was compressed from 1.61 MB to 457.88 KB, saving 72.17 percent, using WP-Optimize 
+[2025-05-18 14:30:23 : INFO] - Completed processing task with ID : 171, and type 'smush' 
+[2025-05-18 14:30:23 : INFO] - Processing task with ID : 172, and type 'smush' 
+[2025-05-18 14:30:23 : INFO] - Re_Smush_It_Task with attachment ID : 721, autocreated on : May 18, 2025 02:25:07 
+[2025-05-18 14:30:23 : INFO] - File: 3.png, Compression quality: 92 
+[2025-05-18 14:30:24 : INFO] - Backing up the original image - 2025/05/3-updraft-pre-smush-original.png 
+[2025-05-18 14:30:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:30:30 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/3.png.The file was compressed from 2.00 MB to 569.79 KB, saving 72.19 percent, using WP-Optimize 
+[2025-05-18 14:30:30 : INFO] - Completed processing task with ID : 172, and type 'smush' 
+[2025-05-18 14:30:30 : INFO] - Processing task with ID : 173, and type 'smush' 
+[2025-05-18 14:30:30 : INFO] - Re_Smush_It_Task with attachment ID : 722, autocreated on : May 18, 2025 02:25:12 
+[2025-05-18 14:30:30 : INFO] - File: 1.png, Compression quality: 92 
+[2025-05-18 14:30:31 : INFO] - Backing up the original image - 2025/05/1-updraft-pre-smush-original.png 
+[2025-05-18 14:30:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:30:36 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/1.png.The file was compressed from 1.76 MB to 488.57 KB, saving 72.84 percent, using WP-Optimize 
+[2025-05-18 14:30:36 : INFO] - Completed processing task with ID : 173, and type 'smush' 
+[2025-05-18 14:30:36 : INFO] - Processing task with ID : 174, and type 'smush' 
+[2025-05-18 14:30:36 : INFO] - Re_Smush_It_Task with attachment ID : 723, autocreated on : May 18, 2025 02:25:18 
+[2025-05-18 14:30:36 : INFO] - File: 2.png, Compression quality: 92 
+[2025-05-18 14:30:38 : INFO] - Backing up the original image - 2025/05/2-updraft-pre-smush-original.png 
+[2025-05-18 14:30:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:30:42 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/2.png.The file was compressed from 1.55 MB to 438.86 KB, saving 72.41 percent, using WP-Optimize 
+[2025-05-18 14:30:42 : INFO] - Completed processing task with ID : 174, and type 'smush' 
+[2025-05-18 14:30:42 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-05-18 14:30:42 : INFO] - Successfully processed the queue (smush). 18 tasks were processed out of 18. 
+[2025-05-18 14:30:42 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-05-18 14:30:42 : INFO] - Cleaning up tasks of type (smush). A total of 18 tasks will be deleted. 
+[2025-05-18 14:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 738, autocreated on : May 18, 2025 02:49:47 
+[2025-05-18 14:49:56 : INFO] - Re_Smush_It_Task with attachment ID : 739, autocreated on : May 18, 2025 02:49:56 
+[2025-05-18 14:50:04 : INFO] - Re_Smush_It_Task with attachment ID : 740, autocreated on : May 18, 2025 02:50:04 
+[2025-05-18 14:50:12 : INFO] - Re_Smush_It_Task with attachment ID : 741, autocreated on : May 18, 2025 02:50:12 
+[2025-05-18 14:50:21 : INFO] - Re_Smush_It_Task with attachment ID : 745, autocreated on : May 18, 2025 02:50:21 
+[2025-05-18 14:50:30 : INFO] - Re_Smush_It_Task with attachment ID : 746, autocreated on : May 18, 2025 02:50:30 
+[2025-05-18 14:50:55 : INFO] - Re_Smush_It_Task with attachment ID : 751, autocreated on : May 18, 2025 02:50:55 
+[2025-05-18 14:54:47 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 14:54:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-05-18 14:54:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-05-18 14:54:47 : INFO] - Processing task with ID : 183, and type 'smush' 
+[2025-05-18 14:54:47 : INFO] - Re_Smush_It_Task with attachment ID : 738, autocreated on : May 18, 2025 02:49:47 
+[2025-05-18 14:54:47 : INFO] - File: c7.png, Compression quality: 92 
+[2025-05-18 14:54:49 : INFO] - Backing up the original image - 2025/05/c7-updraft-pre-smush-original.png 
+[2025-05-18 14:54:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:54:57 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/c7.png.The file was compressed from 2.99 MB to 891.26 KB, saving 70.87 percent, using WP-Optimize 
+[2025-05-18 14:54:57 : INFO] - Completed processing task with ID : 183, and type 'smush' 
+[2025-05-18 14:54:57 : INFO] - Processing task with ID : 184, and type 'smush' 
+[2025-05-18 14:54:57 : INFO] - Re_Smush_It_Task with attachment ID : 739, autocreated on : May 18, 2025 02:49:56 
+[2025-05-18 14:54:57 : INFO] - File: c6.png, Compression quality: 92 
+[2025-05-18 14:55:00 : INFO] - Backing up the original image - 2025/05/c6-updraft-pre-smush-original.png 
+[2025-05-18 14:55:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:55:09 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/c6.png.The file was compressed from 3.08 MB to 937.96 KB, saving 70.28 percent, using WP-Optimize 
+[2025-05-18 14:55:09 : INFO] - Completed processing task with ID : 184, and type 'smush' 
+[2025-05-18 14:55:09 : INFO] - Processing task with ID : 185, and type 'smush' 
+[2025-05-18 14:55:09 : INFO] - Re_Smush_It_Task with attachment ID : 740, autocreated on : May 18, 2025 02:50:04 
+[2025-05-18 14:55:09 : INFO] - File: c10.png, Compression quality: 92 
+[2025-05-18 14:55:10 : INFO] - Backing up the original image - 2025/05/c10-updraft-pre-smush-original.png 
+[2025-05-18 14:55:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:55:16 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/c10.png.The file was compressed from 2.64 MB to 849.68 KB, saving 68.56 percent, using WP-Optimize 
+[2025-05-18 14:55:16 : INFO] - Completed processing task with ID : 185, and type 'smush' 
+[2025-05-18 14:55:16 : INFO] - Processing task with ID : 186, and type 'smush' 
+[2025-05-18 14:55:16 : INFO] - Re_Smush_It_Task with attachment ID : 741, autocreated on : May 18, 2025 02:50:12 
+[2025-05-18 14:55:16 : INFO] - File: c8.png, Compression quality: 92 
+[2025-05-18 14:55:18 : INFO] - Backing up the original image - 2025/05/c8-updraft-pre-smush-original.png 
+[2025-05-18 14:55:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:55:24 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/c8.png.The file was compressed from 3.00 MB to 917.26 KB, saving 70.18 percent, using WP-Optimize 
+[2025-05-18 14:55:24 : INFO] - Completed processing task with ID : 186, and type 'smush' 
+[2025-05-18 14:55:24 : INFO] - Processing task with ID : 189, and type 'smush' 
+[2025-05-18 14:55:24 : INFO] - Re_Smush_It_Task with attachment ID : 745, autocreated on : May 18, 2025 02:50:21 
+[2025-05-18 14:55:24 : INFO] - File: c12.png, Compression quality: 92 
+[2025-05-18 14:55:27 : INFO] - Backing up the original image - 2025/05/c12-updraft-pre-smush-original.png 
+[2025-05-18 14:55:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:55:36 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/c12.png.The file was compressed from 3.49 MB to 997.45 KB, saving 72.1 percent, using WP-Optimize 
+[2025-05-18 14:55:36 : INFO] - Completed processing task with ID : 189, and type 'smush' 
+[2025-05-18 14:55:36 : INFO] - Processing task with ID : 190, and type 'smush' 
+[2025-05-18 14:55:36 : INFO] - Re_Smush_It_Task with attachment ID : 746, autocreated on : May 18, 2025 02:50:30 
+[2025-05-18 14:55:36 : INFO] - File: c.png, Compression quality: 92 
+[2025-05-18 14:55:39 : INFO] - Backing up the original image - 2025/05/c-updraft-pre-smush-original.png 
+[2025-05-18 14:55:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-05-18 14:55:47 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/c.png.The file was compressed from 3.16 MB to 897.83 KB, saving 72.25 percent, using WP-Optimize 
+[2025-05-18 14:55:47 : INFO] - Completed processing task with ID : 190, and type 'smush' 
+[2025-05-18 14:55:47 : INFO] - Processing task with ID : 193, and type 'smush' 
+[2025-05-18 14:55:47 : INFO] - Task with ID 193 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-05-18 14:55:47 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-05-18 14:55:47 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2025-05-18 14:55:47 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-05-18 14:55:47 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2025-05-18 15:02:51 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-05-18 15:02:52 : INFO] - A total of 69 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:02:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-05-18 15:02:52 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-05-18 15:02:52 : INFO] - Processing task with ID : 222, and type 'smush' 
+[2025-05-18 15:02:52 : INFO] - Re_Smush_It_Task - Attachment ID : 15, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:02:52 : INFO] - File: IMG_0860-1-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:02:59 : INFO] - Backing up the original image - 2025/03/IMG_0860-1-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:03:14 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0860-1-scaled.jpg.The file was compressed from 474.08 KB to 461.68 KB, saving 2.62 percent, using WP-Optimize 
+[2025-05-18 15:03:14 : INFO] - Completed processing task with ID : 222, and type 'smush' 
+[2025-05-18 15:03:14 : INFO] - Processing task with ID : 223, and type 'smush' 
+[2025-05-18 15:03:14 : INFO] - Re_Smush_It_Task - Attachment ID : 28, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:03:14 : INFO] - File: IMG_0843-1-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:03:21 : INFO] - Backing up the original image - 2025/03/IMG_0843-1-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:03:36 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0843-1-scaled.jpg.The file was compressed from 522.02 KB to 506.70 KB, saving 2.93 percent, using WP-Optimize 
+[2025-05-18 15:03:36 : INFO] - Completed processing task with ID : 223, and type 'smush' 
+[2025-05-18 15:03:36 : INFO] - Processing task with ID : 224, and type 'smush' 
+[2025-05-18 15:03:36 : INFO] - Re_Smush_It_Task - Attachment ID : 39, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:03:36 : INFO] - File: IMG_9199-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:03:43 : INFO] - Backing up the original image - 2025/03/IMG_9199-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:03:52 : INFO] - A total of 67 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:03:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:03:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:03:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:03:52 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-05-18 15:03:56 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9199-scaled.jpg.The file was compressed from 476.86 KB to 456.82 KB, saving 4.2 percent, using WP-Optimize 
+[2025-05-18 15:03:56 : INFO] - Completed processing task with ID : 224, and type 'smush' 
+[2025-05-18 15:03:56 : INFO] - Processing task with ID : 225, and type 'smush' 
+[2025-05-18 15:03:56 : INFO] - Re_Smush_It_Task - Attachment ID : 53, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:03:56 : INFO] - File: IMG_0856-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:04:04 : INFO] - Backing up the original image - 2025/03/IMG_0856-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:04:07 : INFO] - A total of 69 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:04:07 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:04:07 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:04:07 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:04:07 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-18 15:04:19 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0856-scaled.jpg.The file was compressed from 582.51 KB to 557.34 KB, saving 4.32 percent, using WP-Optimize 
+[2025-05-18 15:04:19 : INFO] - Completed processing task with ID : 225, and type 'smush' 
+[2025-05-18 15:04:19 : INFO] - Processing task with ID : 226, and type 'smush' 
+[2025-05-18 15:04:19 : INFO] - Re_Smush_It_Task - Attachment ID : 60, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:04:19 : INFO] - File: IMG_9222-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:04:25 : INFO] - Backing up the original image - 2025/03/IMG_9222-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:04:37 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9222-scaled.jpg.The file was compressed from 375.30 KB to 352.90 KB, saving 5.97 percent, using WP-Optimize 
+[2025-05-18 15:04:37 : INFO] - Completed processing task with ID : 226, and type 'smush' 
+[2025-05-18 15:04:37 : INFO] - Processing task with ID : 227, and type 'smush' 
+[2025-05-18 15:04:37 : INFO] - Re_Smush_It_Task - Attachment ID : 61, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:04:37 : INFO] - File: DSC00497-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:04:44 : INFO] - Backing up the original image - 2025/03/DSC00497-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:04:49 : INFO] - A total of 67 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:04:49 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:04:49 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:04:49 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:04:49 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-05-18 15:04:52 : INFO] - A total of 67 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:04:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:04:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:04:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:04:58 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/DSC00497-scaled.jpg.The file was compressed from 477.60 KB to 464.24 KB, saving 2.8 percent, using WP-Optimize 
+[2025-05-18 15:04:58 : INFO] - Completed processing task with ID : 227, and type 'smush' 
+[2025-05-18 15:04:58 : INFO] - Processing task with ID : 228, and type 'smush' 
+[2025-05-18 15:04:58 : INFO] - Re_Smush_It_Task - Attachment ID : 62, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:04:58 : INFO] - File: DSC00498-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:05:05 : INFO] - Backing up the original image - 2025/03/DSC00498-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:05:19 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/DSC00498-scaled.jpg.The file was compressed from 462.59 KB to 447.15 KB, saving 3.34 percent, using WP-Optimize 
+[2025-05-18 15:05:19 : INFO] - Completed processing task with ID : 228, and type 'smush' 
+[2025-05-18 15:05:19 : INFO] - Processing task with ID : 229, and type 'smush' 
+[2025-05-18 15:05:19 : INFO] - Re_Smush_It_Task - Attachment ID : 63, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:05:19 : INFO] - File: IMG_0851-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:05:27 : INFO] - Backing up the original image - 2025/03/IMG_0851-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:05:31 : INFO] - A total of 69 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:05:31 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:05:31 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:05:31 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:05:31 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-05-18 15:05:42 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0851-scaled.jpg.The file was compressed from 614.44 KB to 594.47 KB, saving 3.25 percent, using WP-Optimize 
+[2025-05-18 15:05:42 : INFO] - Completed processing task with ID : 229, and type 'smush' 
+[2025-05-18 15:05:42 : INFO] - Processing task with ID : 230, and type 'smush' 
+[2025-05-18 15:05:42 : INFO] - Re_Smush_It_Task - Attachment ID : 64, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:05:42 : INFO] - File: IMG_0854-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:05:50 : INFO] - Backing up the original image - 2025/03/IMG_0854-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:05:52 : INFO] - A total of 68 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:05:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:05:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:05:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:05:52 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-18 15:06:05 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0854-scaled.jpg.The file was compressed from 565.82 KB to 547.58 KB, saving 3.22 percent, using WP-Optimize 
+[2025-05-18 15:06:05 : INFO] - Completed processing task with ID : 230, and type 'smush' 
+[2025-05-18 15:06:05 : INFO] - Processing task with ID : 231, and type 'smush' 
+[2025-05-18 15:06:05 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:06:05 : INFO] - File: IMG_0861-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:06:07 : INFO] - A total of 67 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:06:07 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:06:07 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:06:07 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:06:07 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-18 15:06:13 : INFO] - Backing up the original image - 2025/03/IMG_0861-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:06:31 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0861-scaled.jpg.The file was compressed from 613.93 KB to 593.82 KB, saving 3.28 percent, using WP-Optimize 
+[2025-05-18 15:06:31 : INFO] - Completed processing task with ID : 231, and type 'smush' 
+[2025-05-18 15:06:31 : INFO] - Processing task with ID : 232, and type 'smush' 
+[2025-05-18 15:06:31 : INFO] - Re_Smush_It_Task - Attachment ID : 66, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:06:31 : INFO] - File: IMG_9257-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:06:37 : INFO] - Backing up the original image - 2025/03/IMG_9257-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:06:37 : INFO] - A total of 69 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:06:37 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:06:37 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:06:37 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:06:37 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-18 15:06:50 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9257-scaled.jpg.The file was compressed from 436.59 KB to 410.04 KB, saving 6.08 percent, using WP-Optimize 
+[2025-05-18 15:06:50 : INFO] - Completed processing task with ID : 232, and type 'smush' 
+[2025-05-18 15:06:50 : INFO] - Processing task with ID : 233, and type 'smush' 
+[2025-05-18 15:06:50 : INFO] - Re_Smush_It_Task - Attachment ID : 67, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:06:50 : INFO] - File: IMG_9263-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:06:52 : INFO] - A total of 68 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:06:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:06:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:06:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:06:52 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-18 15:06:57 : INFO] - Backing up the original image - 2025/03/IMG_9263-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:07:07 : INFO] - A total of 68 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:07:07 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:07:07 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:07:07 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:07:09 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9263-scaled.jpg.The file was compressed from 473.66 KB to 443.58 KB, saving 6.35 percent, using WP-Optimize 
+[2025-05-18 15:07:09 : INFO] - Completed processing task with ID : 233, and type 'smush' 
+[2025-05-18 15:07:09 : INFO] - Processing task with ID : 234, and type 'smush' 
+[2025-05-18 15:07:09 : INFO] - Re_Smush_It_Task - Attachment ID : 68, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:07:09 : INFO] - File: IMG_9277-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:07:15 : INFO] - Backing up the original image - 2025/03/IMG_9277-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:07:28 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9277-scaled.jpg.The file was compressed from 406.51 KB to 383.28 KB, saving 5.71 percent, using WP-Optimize 
+[2025-05-18 15:07:28 : INFO] - Completed processing task with ID : 234, and type 'smush' 
+[2025-05-18 15:07:28 : INFO] - Processing task with ID : 235, and type 'smush' 
+[2025-05-18 15:07:28 : INFO] - Re_Smush_It_Task - Attachment ID : 69, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:07:28 : INFO] - File: IMG_9290-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:07:35 : INFO] - Backing up the original image - 2025/03/IMG_9290-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:07:47 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9290-scaled.jpg.The file was compressed from 441.07 KB to 410.64 KB, saving 6.9 percent, using WP-Optimize 
+[2025-05-18 15:07:47 : INFO] - Completed processing task with ID : 235, and type 'smush' 
+[2025-05-18 15:07:47 : INFO] - Processing task with ID : 236, and type 'smush' 
+[2025-05-18 15:07:47 : INFO] - Re_Smush_It_Task - Attachment ID : 70, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:07:47 : INFO] - File: DSC00501-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:07:52 : INFO] - A total of 69 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:07:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:07:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:07:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:07:52 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-05-18 15:07:53 : INFO] - A total of 69 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:07:53 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-05-18 15:07:54 : INFO] - A total of 69 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:07:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:07:54 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:07:54 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:07:56 : INFO] - Task with ID 236 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2025-05-18 15:07:56 : INFO] - Processing task with ID : 237, and type 'smush' 
+[2025-05-18 15:07:56 : INFO] - Re_Smush_It_Task - Attachment ID : 71, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:07:56 : INFO] - File: IMG_0859-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:08:04 : INFO] - Backing up the original image - 2025/03/IMG_0859-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:08:20 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0859-scaled.jpg.The file was compressed from 685.72 KB to 658.26 KB, saving 4.01 percent, using WP-Optimize 
+[2025-05-18 15:08:20 : INFO] - Completed processing task with ID : 237, and type 'smush' 
+[2025-05-18 15:08:20 : INFO] - Processing task with ID : 238, and type 'smush' 
+[2025-05-18 15:08:20 : INFO] - Re_Smush_It_Task - Attachment ID : 72, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:08:20 : INFO] - File: IMG_9166-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:08:27 : INFO] - Backing up the original image - 2025/03/IMG_9166-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:08:40 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9166-scaled.jpg.The file was compressed from 471.10 KB to 439.15 KB, saving 6.78 percent, using WP-Optimize 
+[2025-05-18 15:08:40 : INFO] - Completed processing task with ID : 238, and type 'smush' 
+[2025-05-18 15:08:40 : INFO] - Processing task with ID : 239, and type 'smush' 
+[2025-05-18 15:08:40 : INFO] - Re_Smush_It_Task - Attachment ID : 73, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:08:40 : INFO] - File: IMG_9172-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:08:47 : INFO] - Backing up the original image - 2025/03/IMG_9172-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:09:00 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9172-scaled.jpg.The file was compressed from 423.96 KB to 396.63 KB, saving 6.45 percent, using WP-Optimize 
+[2025-05-18 15:09:00 : INFO] - Completed processing task with ID : 239, and type 'smush' 
+[2025-05-18 15:09:00 : INFO] - Processing task with ID : 240, and type 'smush' 
+[2025-05-18 15:09:00 : INFO] - Re_Smush_It_Task - Attachment ID : 74, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:09:00 : INFO] - File: IMG_9195-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:09:07 : INFO] - Backing up the original image - 2025/03/IMG_9195-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:09:22 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9195-scaled.jpg.The file was compressed from 490.42 KB to 474.04 KB, saving 3.34 percent, using WP-Optimize 
+[2025-05-18 15:09:22 : INFO] - Completed processing task with ID : 240, and type 'smush' 
+[2025-05-18 15:09:22 : INFO] - Processing task with ID : 241, and type 'smush' 
+[2025-05-18 15:09:22 : INFO] - Re_Smush_It_Task - Attachment ID : 75, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:09:22 : INFO] - File: IMG_9225-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:09:29 : INFO] - Backing up the original image - 2025/03/IMG_9225-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:09:42 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9225-scaled.jpg.The file was compressed from 567.57 KB to 546.89 KB, saving 3.64 percent, using WP-Optimize 
+[2025-05-18 15:09:42 : INFO] - Completed processing task with ID : 241, and type 'smush' 
+[2025-05-18 15:09:42 : INFO] - Processing task with ID : 242, and type 'smush' 
+[2025-05-18 15:09:42 : INFO] - Re_Smush_It_Task - Attachment ID : 76, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:09:42 : INFO] - File: IMG_9256-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:09:49 : INFO] - Backing up the original image - 2025/03/IMG_9256-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:09:55 : INFO] - A total of 63 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:09:55 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:09:55 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:09:55 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:09:55 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-05-18 15:10:03 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9256-scaled.jpg.The file was compressed from 478.92 KB to 449.87 KB, saving 6.07 percent, using WP-Optimize 
+[2025-05-18 15:10:03 : INFO] - Completed processing task with ID : 242, and type 'smush' 
+[2025-05-18 15:10:03 : INFO] - Processing task with ID : 243, and type 'smush' 
+[2025-05-18 15:10:03 : INFO] - Re_Smush_It_Task - Attachment ID : 77, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:10:03 : INFO] - File: IMG_9265-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:10:09 : INFO] - Backing up the original image - 2025/03/IMG_9265-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:10:22 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9265-scaled.jpg.The file was compressed from 385.87 KB to 361.26 KB, saving 6.38 percent, using WP-Optimize 
+[2025-05-18 15:10:22 : INFO] - Completed processing task with ID : 243, and type 'smush' 
+[2025-05-18 15:10:22 : INFO] - Processing task with ID : 244, and type 'smush' 
+[2025-05-18 15:10:22 : INFO] - Re_Smush_It_Task - Attachment ID : 78, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:10:22 : INFO] - File: IMG_9273-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:10:28 : INFO] - Backing up the original image - 2025/03/IMG_9273-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:10:40 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9273-scaled.jpg.The file was compressed from 466.72 KB to 439.53 KB, saving 5.83 percent, using WP-Optimize 
+[2025-05-18 15:10:40 : INFO] - Completed processing task with ID : 244, and type 'smush' 
+[2025-05-18 15:10:40 : INFO] - Processing task with ID : 245, and type 'smush' 
+[2025-05-18 15:10:40 : INFO] - Re_Smush_It_Task - Attachment ID : 80, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:10:40 : INFO] - File: DSC00496-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:10:47 : INFO] - Backing up the original image - 2025/03/DSC00496-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:10:52 : INFO] - A total of 60 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:10:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:10:52 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:10:52 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:10:52 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-05-18 15:11:01 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/DSC00496-scaled.jpg.The file was compressed from 540.61 KB to 519.93 KB, saving 3.83 percent, using WP-Optimize 
+[2025-05-18 15:11:01 : INFO] - Completed processing task with ID : 245, and type 'smush' 
+[2025-05-18 15:11:01 : INFO] - Processing task with ID : 246, and type 'smush' 
+[2025-05-18 15:11:01 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:11:01 : INFO] - File: IMG_0865-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:11:09 : INFO] - Backing up the original image - 2025/03/IMG_0865-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:11:24 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0865-scaled.jpg.The file was compressed from 640.52 KB to 616.41 KB, saving 3.76 percent, using WP-Optimize 
+[2025-05-18 15:11:24 : INFO] - Completed processing task with ID : 246, and type 'smush' 
+[2025-05-18 15:11:24 : INFO] - Processing task with ID : 247, and type 'smush' 
+[2025-05-18 15:11:24 : INFO] - Re_Smush_It_Task - Attachment ID : 82, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:11:24 : INFO] - File: IMG_9181-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:11:31 : INFO] - Backing up the original image - 2025/03/IMG_9181-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:11:41 : INFO] - Re_Smush_It_Task with attachment ID : 795, autocreated on : May 18, 2025 03:11:41 
+[2025-05-18 15:11:42 : INFO] - Re_Smush_It_Task with attachment ID : 796, autocreated on : May 18, 2025 03:11:42 
+[2025-05-18 15:11:43 : INFO] - Re_Smush_It_Task with attachment ID : 797, autocreated on : May 18, 2025 03:11:43 
+[2025-05-18 15:11:44 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9181-scaled.jpg.The file was compressed from 445.97 KB to 422.59 KB, saving 5.24 percent, using WP-Optimize 
+[2025-05-18 15:11:44 : INFO] - Completed processing task with ID : 247, and type 'smush' 
+[2025-05-18 15:11:44 : INFO] - Processing task with ID : 248, and type 'smush' 
+[2025-05-18 15:11:44 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:11:44 : INFO] - File: IMG_9189-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:11:49 : INFO] - Re_Smush_It_Task with attachment ID : 798, autocreated on : May 18, 2025 03:11:49 
+[2025-05-18 15:11:50 : INFO] - Backing up the original image - 2025/03/IMG_9189-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:11:55 : INFO] - Re_Smush_It_Task with attachment ID : 799, autocreated on : May 18, 2025 03:11:55 
+[2025-05-18 15:12:03 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9189-scaled.jpg.The file was compressed from 438.04 KB to 410.52 KB, saving 6.28 percent, using WP-Optimize 
+[2025-05-18 15:12:03 : INFO] - Completed processing task with ID : 248, and type 'smush' 
+[2025-05-18 15:12:03 : INFO] - Processing task with ID : 249, and type 'smush' 
+[2025-05-18 15:12:03 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:12:03 : INFO] - File: IMG_9231-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:12:10 : INFO] - Backing up the original image - 2025/03/IMG_9231-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:12:11 : INFO] - Re_Smush_It_Task with attachment ID : 800, autocreated on : May 18, 2025 03:12:11 
+[2025-05-18 15:12:16 : INFO] - Re_Smush_It_Task with attachment ID : 801, autocreated on : May 18, 2025 03:12:16 
+[2025-05-18 15:12:20 : INFO] - Re_Smush_It_Task with attachment ID : 802, autocreated on : May 18, 2025 03:12:20 
+[2025-05-18 15:12:21 : INFO] - Re_Smush_It_Task with attachment ID : 803, autocreated on : May 18, 2025 03:12:21 
+[2025-05-18 15:12:22 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9231-scaled.jpg.The file was compressed from 428.13 KB to 395.98 KB, saving 7.51 percent, using WP-Optimize 
+[2025-05-18 15:12:22 : INFO] - Completed processing task with ID : 249, and type 'smush' 
+[2025-05-18 15:12:22 : INFO] - Processing task with ID : 250, and type 'smush' 
+[2025-05-18 15:12:22 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:12:22 : INFO] - File: IMG_9246-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:12:22 : INFO] - Re_Smush_It_Task with attachment ID : 804, autocreated on : May 18, 2025 03:12:22 
+[2025-05-18 15:12:23 : INFO] - Re_Smush_It_Task with attachment ID : 805, autocreated on : May 18, 2025 03:12:23 
+[2025-05-18 15:12:28 : INFO] - Backing up the original image - 2025/03/IMG_9246-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:12:41 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9246-scaled.jpg.The file was compressed from 557.11 KB to 523.91 KB, saving 5.96 percent, using WP-Optimize 
+[2025-05-18 15:12:41 : INFO] - Completed processing task with ID : 250, and type 'smush' 
+[2025-05-18 15:12:41 : INFO] - Processing task with ID : 251, and type 'smush' 
+[2025-05-18 15:12:41 : INFO] - Re_Smush_It_Task - Attachment ID : 87, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:12:41 : INFO] - File: IMG_9247-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:12:48 : INFO] - Backing up the original image - 2025/03/IMG_9247-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:12:55 : INFO] - A total of 65 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:12:55 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-05-18 15:12:58 : INFO] - Task with ID 251 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2025-05-18 15:12:58 : INFO] - Processing task with ID : 252, and type 'smush' 
+[2025-05-18 15:12:58 : INFO] - Re_Smush_It_Task - Attachment ID : 89, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:12:58 : INFO] - File: IMG_9279-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:13:04 : INFO] - Backing up the original image - 2025/03/IMG_9279-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:13:18 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9279-scaled.jpg.The file was compressed from 474.73 KB to 450.18 KB, saving 5.17 percent, using WP-Optimize 
+[2025-05-18 15:13:18 : INFO] - Completed processing task with ID : 252, and type 'smush' 
+[2025-05-18 15:13:18 : INFO] - Processing task with ID : 253, and type 'smush' 
+[2025-05-18 15:13:18 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:13:18 : INFO] - File: IMG_9283-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:13:24 : INFO] - Backing up the original image - 2025/03/IMG_9283-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:13:37 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9283-scaled.jpg.The file was compressed from 462.40 KB to 439.50 KB, saving 4.95 percent, using WP-Optimize 
+[2025-05-18 15:13:37 : INFO] - Completed processing task with ID : 253, and type 'smush' 
+[2025-05-18 15:13:37 : INFO] - Processing task with ID : 254, and type 'smush' 
+[2025-05-18 15:13:37 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:13:37 : INFO] - File: IMG_0864-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:13:45 : INFO] - Backing up the original image - 2025/03/IMG_0864-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:14:01 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0864-scaled.jpg.The file was compressed from 625.00 KB to 602.87 KB, saving 3.54 percent, using WP-Optimize 
+[2025-05-18 15:14:01 : INFO] - Completed processing task with ID : 254, and type 'smush' 
+[2025-05-18 15:14:01 : INFO] - Processing task with ID : 255, and type 'smush' 
+[2025-05-18 15:14:01 : INFO] - Re_Smush_It_Task - Attachment ID : 94, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:14:01 : INFO] - File: IMG_0867-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:14:09 : INFO] - Backing up the original image - 2025/03/IMG_0867-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:14:25 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0867-scaled.jpg.The file was compressed from 712.82 KB to 690.71 KB, saving 3.1 percent, using WP-Optimize 
+[2025-05-18 15:14:25 : INFO] - Completed processing task with ID : 255, and type 'smush' 
+[2025-05-18 15:14:25 : INFO] - Processing task with ID : 256, and type 'smush' 
+[2025-05-18 15:14:25 : INFO] - Re_Smush_It_Task - Attachment ID : 95, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:14:25 : INFO] - File: IMG_9170-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:14:32 : INFO] - Backing up the original image - 2025/03/IMG_9170-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:14:45 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9170-scaled.jpg.The file was compressed from 427.07 KB to 399.80 KB, saving 6.38 percent, using WP-Optimize 
+[2025-05-18 15:14:45 : INFO] - Completed processing task with ID : 256, and type 'smush' 
+[2025-05-18 15:14:45 : INFO] - Processing task with ID : 257, and type 'smush' 
+[2025-05-18 15:14:45 : INFO] - Re_Smush_It_Task - Attachment ID : 96, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:14:45 : INFO] - File: IMG_91731-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:14:52 : INFO] - Backing up the original image - 2025/03/IMG_91731-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:14:56 : INFO] - A total of 59 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:14:56 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:14:56 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:14:56 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:14:56 : INFO] - Cleaning up tasks of type (smush). A total of 11 tasks will be deleted. 
+[2025-05-18 15:15:05 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_91731-scaled.jpg.The file was compressed from 501.86 KB to 471.06 KB, saving 6.14 percent, using WP-Optimize 
+[2025-05-18 15:15:05 : INFO] - Completed processing task with ID : 257, and type 'smush' 
+[2025-05-18 15:15:05 : INFO] - Processing task with ID : 258, and type 'smush' 
+[2025-05-18 15:15:05 : INFO] - Re_Smush_It_Task - Attachment ID : 99, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:15:05 : INFO] - File: IMG_9208-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:15:14 : INFO] - Backing up the original image - 2025/03/IMG_9208-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:15:31 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9208-scaled.jpg.The file was compressed from 1.28 MB to 1.20 MB, saving 6.18 percent, using WP-Optimize 
+[2025-05-18 15:15:31 : INFO] - Completed processing task with ID : 258, and type 'smush' 
+[2025-05-18 15:15:31 : INFO] - Processing task with ID : 259, and type 'smush' 
+[2025-05-18 15:15:31 : INFO] - Task with ID 259 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C3.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:15:31 : INFO] - Processing task with ID : 260, and type 'smush' 
+[2025-05-18 15:15:31 : INFO] - Task with ID 260 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/K1.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:15:31 : INFO] - Processing task with ID : 261, and type 'smush' 
+[2025-05-18 15:15:31 : INFO] - Task with ID 261 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M21.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:15:31 : INFO] - Processing task with ID : 262, and type 'smush' 
+[2025-05-18 15:15:31 : INFO] - Task with ID 262 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/P4.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:15:31 : INFO] - Processing task with ID : 263, and type 'smush' 
+[2025-05-18 15:15:31 : INFO] - Re_Smush_It_Task - Attachment ID : 118, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:15:31 : INFO] - File: IMG_9169-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:15:38 : INFO] - Backing up the original image - 2025/03/IMG_9169-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:15:52 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9169-scaled.jpg.The file was compressed from 592.66 KB to 546.95 KB, saving 7.71 percent, using WP-Optimize 
+[2025-05-18 15:15:52 : INFO] - Completed processing task with ID : 263, and type 'smush' 
+[2025-05-18 15:15:52 : INFO] - Processing task with ID : 264, and type 'smush' 
+[2025-05-18 15:15:52 : INFO] - Re_Smush_It_Task - Attachment ID : 121, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:15:52 : INFO] - File: IMG_9238-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:16:00 : INFO] - Backing up the original image - 2025/03/IMG_9238-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:16:14 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9238-scaled.jpg.The file was compressed from 616.89 KB to 568.61 KB, saving 7.83 percent, using WP-Optimize 
+[2025-05-18 15:16:14 : INFO] - Completed processing task with ID : 264, and type 'smush' 
+[2025-05-18 15:16:14 : INFO] - Processing task with ID : 265, and type 'smush' 
+[2025-05-18 15:16:14 : INFO] - Re_Smush_It_Task - Attachment ID : 122, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:16:14 : INFO] - File: IMG_9286-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:16:22 : INFO] - Backing up the original image - 2025/03/IMG_9286-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:16:36 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9286-scaled.jpg.The file was compressed from 739.38 KB to 690.49 KB, saving 6.61 percent, using WP-Optimize 
+[2025-05-18 15:16:36 : INFO] - Completed processing task with ID : 265, and type 'smush' 
+[2025-05-18 15:16:36 : INFO] - Processing task with ID : 266, and type 'smush' 
+[2025-05-18 15:16:36 : INFO] - Task with ID 266 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M5.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:16:36 : INFO] - Processing task with ID : 267, and type 'smush' 
+[2025-05-18 15:16:36 : INFO] - Re_Smush_It_Task - Attachment ID : 125, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:16:36 : INFO] - File: M61.png, Compression quality: 92 
+[2025-05-18 15:16:46 : INFO] - Backing up the original image - 2025/03/M61-updraft-pre-smush-original.png 
+[2025-05-18 15:16:57 : INFO] - A total of 49 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:16:57 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:16:57 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:16:57 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:16:57 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-05-18 15:17:07 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M61.png.The file was compressed from 4.17 MB to 1.17 MB, saving 72 percent, using WP-Optimize 
+[2025-05-18 15:17:07 : INFO] - Completed processing task with ID : 267, and type 'smush' 
+[2025-05-18 15:17:07 : INFO] - Processing task with ID : 268, and type 'smush' 
+[2025-05-18 15:17:07 : INFO] - Re_Smush_It_Task - Attachment ID : 126, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:17:07 : INFO] - File: M15.png, Compression quality: 92 
+[2025-05-18 15:17:17 : INFO] - Backing up the original image - 2025/03/M15-updraft-pre-smush-original.png 
+[2025-05-18 15:17:41 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M15.png.The file was compressed from 4.91 MB to 1.26 MB, saving 74.4 percent, using WP-Optimize 
+[2025-05-18 15:17:41 : INFO] - Completed processing task with ID : 268, and type 'smush' 
+[2025-05-18 15:17:41 : INFO] - Processing task with ID : 269, and type 'smush' 
+[2025-05-18 15:17:41 : INFO] - Task with ID 269 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C23.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:17:41 : INFO] - Processing task with ID : 270, and type 'smush' 
+[2025-05-18 15:17:41 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:17:41 : INFO] - File: IMG_1322-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:17:48 : INFO] - Backing up the original image - 2025/03/IMG_1322-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:17:55 : INFO] - A total of 46 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:17:55 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:17:55 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:17:55 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:17:55 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-05-18 15:18:02 : INFO] - A total of 46 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:18:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-05-18 15:18:05 : INFO] - Task with ID 270 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2025-05-18 15:18:05 : INFO] - Processing task with ID : 271, and type 'smush' 
+[2025-05-18 15:18:05 : INFO] - Re_Smush_It_Task - Attachment ID : 130, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:18:05 : INFO] - File: IMG_9178-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:18:06 : INFO] - A total of 45 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:18:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:18:06 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:18:06 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:18:12 : INFO] - Backing up the original image - 2025/03/IMG_9178-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:18:26 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9178-scaled.jpg.The file was compressed from 598.28 KB to 550.02 KB, saving 8.07 percent, using WP-Optimize 
+[2025-05-18 15:18:26 : INFO] - Completed processing task with ID : 271, and type 'smush' 
+[2025-05-18 15:18:26 : INFO] - Processing task with ID : 272, and type 'smush' 
+[2025-05-18 15:18:26 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:18:26 : INFO] - File: IMG_9244-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:18:34 : INFO] - Backing up the original image - 2025/03/IMG_9244-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:18:51 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9244-scaled.jpg.The file was compressed from 710.59 KB to 657.36 KB, saving 7.49 percent, using WP-Optimize 
+[2025-05-18 15:18:51 : INFO] - Completed processing task with ID : 272, and type 'smush' 
+[2025-05-18 15:18:51 : INFO] - Processing task with ID : 273, and type 'smush' 
+[2025-05-18 15:18:51 : INFO] - Task with ID 273 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/K3.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:18:51 : INFO] - Processing task with ID : 274, and type 'smush' 
+[2025-05-18 15:18:51 : INFO] - Re_Smush_It_Task - Attachment ID : 133, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:18:51 : INFO] - File: M12.png, Compression quality: 92 
+[2025-05-18 15:19:01 : INFO] - Backing up the original image - 2025/03/M12-updraft-pre-smush-original.png 
+[2025-05-18 15:19:16 : INFO] - A total of 42 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:19:16 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:19:16 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:19:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:19:16 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-05-18 15:19:26 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M12.png.The file was compressed from 4.91 MB to 1.40 MB, saving 71.48 percent, using WP-Optimize 
+[2025-05-18 15:19:26 : INFO] - Completed processing task with ID : 274, and type 'smush' 
+[2025-05-18 15:19:26 : INFO] - Processing task with ID : 275, and type 'smush' 
+[2025-05-18 15:19:26 : INFO] - Task with ID 275 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M22.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:19:26 : INFO] - Processing task with ID : 276, and type 'smush' 
+[2025-05-18 15:19:26 : INFO] - Re_Smush_It_Task - Attachment ID : 135, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:19:26 : INFO] - File: A3.png, Compression quality: 92 
+[2025-05-18 15:19:34 : INFO] - Backing up the original image - 2025/03/A3-updraft-pre-smush-original.png 
+[2025-05-18 15:19:56 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/A3.png.The file was compressed from 3.79 MB to 1,014.25 KB, saving 73.9 percent, using WP-Optimize 
+[2025-05-18 15:19:56 : INFO] - Completed processing task with ID : 276, and type 'smush' 
+[2025-05-18 15:19:56 : INFO] - Processing task with ID : 277, and type 'smush' 
+[2025-05-18 15:19:56 : INFO] - Task with ID 277 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C2.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:19:56 : INFO] - Processing task with ID : 278, and type 'smush' 
+[2025-05-18 15:19:56 : INFO] - Task with ID 278 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C5.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:19:56 : INFO] - Processing task with ID : 279, and type 'smush' 
+[2025-05-18 15:19:56 : INFO] - Task with ID 279 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M8.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:19:56 : INFO] - Processing task with ID : 280, and type 'smush' 
+[2025-05-18 15:19:56 : INFO] - Re_Smush_It_Task - Attachment ID : 139, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:19:56 : INFO] - File: M18.png, Compression quality: 92 
+[2025-05-18 15:19:58 : INFO] - A total of 36 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:19:58 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:19:58 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:19:58 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:19:58 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-05-18 15:20:07 : INFO] - Backing up the original image - 2025/03/M18-updraft-pre-smush-original.png 
+[2025-05-18 15:20:30 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M18.png.The file was compressed from 4.80 MB to 1.28 MB, saving 73.35 percent, using WP-Optimize 
+[2025-05-18 15:20:30 : INFO] - Completed processing task with ID : 280, and type 'smush' 
+[2025-05-18 15:20:30 : INFO] - Processing task with ID : 281, and type 'smush' 
+[2025-05-18 15:20:30 : INFO] - Task with ID 281 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M6.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 15:20:30 : INFO] - Processing task with ID : 282, and type 'smush' 
+[2025-05-18 15:20:30 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:20:30 : INFO] - File: M17.png, Compression quality: 92 
+[2025-05-18 15:20:40 : INFO] - Backing up the original image - 2025/03/M17-updraft-pre-smush-original.png 
+[2025-05-18 15:21:00 : INFO] - A total of 34 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:21:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:21:00 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:21:00 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:21:00 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-18 15:21:01 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M17.png.The file was compressed from 4.64 MB to 1.27 MB, saving 72.54 percent, using WP-Optimize 
+[2025-05-18 15:21:01 : INFO] - Completed processing task with ID : 282, and type 'smush' 
+[2025-05-18 15:21:01 : INFO] - Processing task with ID : 283, and type 'smush' 
+[2025-05-18 15:21:01 : INFO] - Re_Smush_It_Task - Attachment ID : 278, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:21:01 : INFO] - File: andre-benz-631450-unsplash.jpg, Compression quality: 92 
+[2025-05-18 15:21:03 : INFO] - Backing up the original image - 2025/03/andre-benz-631450-unsplash-updraft-pre-smush-original.jpg 
+[2025-05-18 15:21:12 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/andre-benz-631450-unsplash.jpg.The file was compressed from 159.19 KB to 159.19 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:21:12 : INFO] - Completed processing task with ID : 283, and type 'smush' 
+[2025-05-18 15:21:12 : INFO] - Processing task with ID : 284, and type 'smush' 
+[2025-05-18 15:21:12 : INFO] - Re_Smush_It_Task - Attachment ID : 279, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:21:12 : INFO] - File: andre-benz-631450-unsplash-1.jpg, Compression quality: 92 
+[2025-05-18 15:21:13 : INFO] - Backing up the original image - 2025/03/andre-benz-631450-unsplash-1-updraft-pre-smush-original.jpg 
+[2025-05-18 15:21:21 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/andre-benz-631450-unsplash-1.jpg.The file was compressed from 159.19 KB to 159.19 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:21:21 : INFO] - Completed processing task with ID : 284, and type 'smush' 
+[2025-05-18 15:21:21 : INFO] - Processing task with ID : 285, and type 'smush' 
+[2025-05-18 15:21:21 : INFO] - Re_Smush_It_Task - Attachment ID : 280, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:21:21 : INFO] - File: etienne-beauregard-riverin-48305-unsplash.jpg, Compression quality: 92 
+[2025-05-18 15:21:23 : INFO] - Backing up the original image - 2025/03/etienne-beauregard-riverin-48305-unsplash-updraft-pre-smush-original.jpg 
+[2025-05-18 15:21:30 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/etienne-beauregard-riverin-48305-unsplash.jpg.The file was compressed from 93.44 KB to 93.44 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:21:30 : INFO] - Completed processing task with ID : 285, and type 'smush' 
+[2025-05-18 15:21:30 : INFO] - Processing task with ID : 286, and type 'smush' 
+[2025-05-18 15:21:30 : INFO] - Re_Smush_It_Task - Attachment ID : 281, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:21:30 : INFO] - File: tim-peterson-1099515-unsplash.jpg, Compression quality: 92 
+[2025-05-18 15:21:32 : INFO] - Backing up the original image - 2025/03/tim-peterson-1099515-unsplash-updraft-pre-smush-original.jpg 
+[2025-05-18 15:21:40 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/tim-peterson-1099515-unsplash.jpg.The file was compressed from 157.00 KB to 157.00 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:21:40 : INFO] - Completed processing task with ID : 286, and type 'smush' 
+[2025-05-18 15:21:40 : INFO] - Processing task with ID : 287, and type 'smush' 
+[2025-05-18 15:21:40 : INFO] - Re_Smush_It_Task - Attachment ID : 282, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:21:40 : INFO] - File: fabio-mangione-236846-unsplash.jpg, Compression quality: 92 
+[2025-05-18 15:21:41 : INFO] - Backing up the original image - 2025/03/fabio-mangione-236846-unsplash-updraft-pre-smush-original.jpg 
+[2025-05-18 15:21:50 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/fabio-mangione-236846-unsplash.jpg.The file was compressed from 118.86 KB to 118.86 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:21:50 : INFO] - Completed processing task with ID : 287, and type 'smush' 
+[2025-05-18 15:21:50 : INFO] - Processing task with ID : 288, and type 'smush' 
+[2025-05-18 15:21:50 : INFO] - Re_Smush_It_Task - Attachment ID : 283, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:21:50 : INFO] - File: timothy-eberly-728185-unsplash.jpg, Compression quality: 92 
+[2025-05-18 15:21:51 : INFO] - Backing up the original image - 2025/03/timothy-eberly-728185-unsplash-updraft-pre-smush-original.jpg 
+[2025-05-18 15:21:57 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/timothy-eberly-728185-unsplash.jpg.The file was compressed from 65.54 KB to 65.54 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:21:57 : INFO] - Completed processing task with ID : 288, and type 'smush' 
+[2025-05-18 15:21:57 : INFO] - Processing task with ID : 289, and type 'smush' 
+[2025-05-18 15:21:57 : INFO] - Re_Smush_It_Task - Attachment ID : 284, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:21:57 : INFO] - File: victoria-shes-1096105-unsplash.jpg, Compression quality: 92 
+[2025-05-18 15:21:59 : INFO] - Backing up the original image - 2025/03/victoria-shes-1096105-unsplash-updraft-pre-smush-original.jpg 
+[2025-05-18 15:22:07 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/victoria-shes-1096105-unsplash.jpg.The file was compressed from 104.03 KB to 104.03 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:22:07 : INFO] - Completed processing task with ID : 289, and type 'smush' 
+[2025-05-18 15:22:07 : INFO] - Processing task with ID : 290, and type 'smush' 
+[2025-05-18 15:22:07 : INFO] - Re_Smush_It_Task - Attachment ID : 285, Started on : May 18, 2025 03:02:52 
+[2025-05-18 15:22:07 : INFO] - File: wabi-jayme-578762-unsplash.jpg, Compression quality: 92 
+[2025-05-18 15:22:09 : INFO] - Backing up the original image - 2025/03/wabi-jayme-578762-unsplash-updraft-pre-smush-original.jpg 
+[2025-05-18 15:22:15 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/wabi-jayme-578762-unsplash.jpg.The file was compressed from 64.10 KB to 64.10 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:22:15 : INFO] - Completed processing task with ID : 290, and type 'smush' 
+[2025-05-18 15:22:15 : INFO] - Processing task with ID : 291, and type 'smush' 
+[2025-05-18 15:22:15 : INFO] - Re_Smush_It_Task - Attachment ID : 15, Started on : May 18, 2025 03:04:07 
+[2025-05-18 15:22:15 : INFO] - File: IMG_0860-1-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:22:23 : INFO] - Backing up the original image - 2025/03/IMG_0860-1-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:22:38 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0860-1-scaled.jpg.The file was compressed from 461.68 KB to 461.68 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:22:38 : INFO] - Completed processing task with ID : 291, and type 'smush' 
+[2025-05-18 15:22:38 : INFO] - Processing task with ID : 292, and type 'smush' 
+[2025-05-18 15:22:38 : INFO] - Re_Smush_It_Task - Attachment ID : 28, Started on : May 18, 2025 03:04:07 
+[2025-05-18 15:22:38 : INFO] - File: IMG_0843-1-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:22:46 : INFO] - Backing up the original image - 2025/03/IMG_0843-1-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:23:01 : INFO] - A total of 24 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:23:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:23:01 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:23:01 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:23:01 : INFO] - Cleaning up tasks of type (smush). A total of 10 tasks will be deleted. 
+[2025-05-18 15:23:01 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0843-1-scaled.jpg.The file was compressed from 506.70 KB to 506.70 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:23:01 : INFO] - Completed processing task with ID : 292, and type 'smush' 
+[2025-05-18 15:23:01 : INFO] - Processing task with ID : 293, and type 'smush' 
+[2025-05-18 15:23:01 : INFO] - Re_Smush_It_Task - Attachment ID : 39, Started on : May 18, 2025 03:04:07 
+[2025-05-18 15:23:01 : INFO] - File: IMG_9199-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:25:02 : INFO] - A total of 23 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:25:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-05-18 15:25:02 : INFO] - Processing task with ID : 293, and type 'smush' 
+[2025-05-18 15:25:02 : INFO] - Re_Smush_It_Task - Attachment ID : 39, Started on : May 18, 2025 03:04:07 
+[2025-05-18 15:25:02 : INFO] - File: IMG_9199-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:25:09 : INFO] - Backing up the original image - 2025/03/IMG_9199-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:25:09 : INFO] - Re_Smush_It_Task with attachment ID : 817, autocreated on : May 18, 2025 03:25:09 
+[2025-05-18 15:25:10 : INFO] - Re_Smush_It_Task with attachment ID : 818, autocreated on : May 18, 2025 03:25:10 
+[2025-05-18 15:25:11 : INFO] - Re_Smush_It_Task with attachment ID : 819, autocreated on : May 18, 2025 03:25:11 
+[2025-05-18 15:25:12 : INFO] - Re_Smush_It_Task with attachment ID : 820, autocreated on : May 18, 2025 03:25:12 
+[2025-05-18 15:25:12 : INFO] - Re_Smush_It_Task with attachment ID : 821, autocreated on : May 18, 2025 03:25:12 
+[2025-05-18 15:25:13 : INFO] - Re_Smush_It_Task with attachment ID : 822, autocreated on : May 18, 2025 03:25:13 
+[2025-05-18 15:25:14 : INFO] - Re_Smush_It_Task with attachment ID : 823, autocreated on : May 18, 2025 03:25:14 
+[2025-05-18 15:25:14 : INFO] - Re_Smush_It_Task with attachment ID : 824, autocreated on : May 18, 2025 03:25:14 
+[2025-05-18 15:25:22 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9199-scaled.jpg.The file was compressed from 456.82 KB to 456.82 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:25:22 : INFO] - Completed processing task with ID : 293, and type 'smush' 
+[2025-05-18 15:25:22 : INFO] - Processing task with ID : 294, and type 'smush' 
+[2025-05-18 15:25:22 : INFO] - Re_Smush_It_Task - Attachment ID : 53, Started on : May 18, 2025 03:05:31 
+[2025-05-18 15:25:22 : INFO] - File: IMG_0856-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:25:30 : INFO] - Backing up the original image - 2025/03/IMG_0856-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:25:46 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0856-scaled.jpg.The file was compressed from 557.34 KB to 557.34 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:25:46 : INFO] - Completed processing task with ID : 294, and type 'smush' 
+[2025-05-18 15:25:46 : INFO] - Processing task with ID : 295, and type 'smush' 
+[2025-05-18 15:25:46 : INFO] - Re_Smush_It_Task - Attachment ID : 60, Started on : May 18, 2025 03:05:31 
+[2025-05-18 15:25:46 : INFO] - File: IMG_9222-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:25:52 : INFO] - Backing up the original image - 2025/03/IMG_9222-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:26:05 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9222-scaled.jpg.The file was compressed from 352.90 KB to 352.90 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:26:05 : INFO] - Completed processing task with ID : 295, and type 'smush' 
+[2025-05-18 15:26:05 : INFO] - Processing task with ID : 296, and type 'smush' 
+[2025-05-18 15:26:05 : INFO] - Re_Smush_It_Task - Attachment ID : 61, Started on : May 18, 2025 03:05:31 
+[2025-05-18 15:26:05 : INFO] - File: DSC00497-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:26:12 : INFO] - Backing up the original image - 2025/03/DSC00497-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:26:26 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/DSC00497-scaled.jpg.The file was compressed from 464.24 KB to 464.24 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:26:26 : INFO] - Completed processing task with ID : 296, and type 'smush' 
+[2025-05-18 15:26:26 : INFO] - Processing task with ID : 297, and type 'smush' 
+[2025-05-18 15:26:26 : INFO] - Re_Smush_It_Task - Attachment ID : 62, Started on : May 18, 2025 03:05:31 
+[2025-05-18 15:26:26 : INFO] - File: DSC00498-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:26:33 : INFO] - Backing up the original image - 2025/03/DSC00498-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:26:47 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/DSC00498-scaled.jpg.The file was compressed from 447.15 KB to 447.15 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:26:47 : INFO] - Completed processing task with ID : 297, and type 'smush' 
+[2025-05-18 15:26:47 : INFO] - Processing task with ID : 298, and type 'smush' 
+[2025-05-18 15:26:47 : INFO] - Re_Smush_It_Task - Attachment ID : 63, Started on : May 18, 2025 03:06:37 
+[2025-05-18 15:26:47 : INFO] - File: IMG_0851-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:26:55 : INFO] - Backing up the original image - 2025/03/IMG_0851-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:27:03 : INFO] - A total of 26 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:27:03 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:27:03 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:27:03 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:27:03 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2025-05-18 15:27:11 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0851-scaled.jpg.The file was compressed from 594.47 KB to 594.47 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:27:11 : INFO] - Completed processing task with ID : 298, and type 'smush' 
+[2025-05-18 15:27:11 : INFO] - Processing task with ID : 299, and type 'smush' 
+[2025-05-18 15:27:11 : INFO] - Re_Smush_It_Task - Attachment ID : 64, Started on : May 18, 2025 03:06:37 
+[2025-05-18 15:27:11 : INFO] - File: IMG_0854-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:27:19 : INFO] - Backing up the original image - 2025/03/IMG_0854-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:27:34 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0854-scaled.jpg.The file was compressed from 547.58 KB to 547.58 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:27:34 : INFO] - Completed processing task with ID : 299, and type 'smush' 
+[2025-05-18 15:27:34 : INFO] - Processing task with ID : 300, and type 'smush' 
+[2025-05-18 15:27:34 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : May 18, 2025 03:06:37 
+[2025-05-18 15:27:34 : INFO] - File: IMG_0861-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:27:42 : INFO] - Backing up the original image - 2025/03/IMG_0861-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:27:48 : INFO] - Re_Smush_It_Task with attachment ID : 830, autocreated on : May 18, 2025 03:27:48 
+[2025-05-18 15:28:01 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_0861-scaled.jpg.The file was compressed from 593.82 KB to 593.82 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:28:01 : INFO] - Completed processing task with ID : 300, and type 'smush' 
+[2025-05-18 15:28:01 : INFO] - Processing task with ID : 301, and type 'smush' 
+[2025-05-18 15:28:01 : INFO] - Re_Smush_It_Task - Attachment ID : 66, Started on : May 18, 2025 03:07:52 
+[2025-05-18 15:28:01 : INFO] - File: IMG_9257-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:28:05 : INFO] - A total of 24 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:28:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:28:05 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:28:05 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:28:05 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-05-18 15:28:07 : INFO] - Backing up the original image - 2025/03/IMG_9257-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:28:20 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9257-scaled.jpg.The file was compressed from 410.04 KB to 410.04 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:28:20 : INFO] - Completed processing task with ID : 301, and type 'smush' 
+[2025-05-18 15:28:20 : INFO] - Processing task with ID : 302, and type 'smush' 
+[2025-05-18 15:28:20 : INFO] - Re_Smush_It_Task - Attachment ID : 67, Started on : May 18, 2025 03:07:52 
+[2025-05-18 15:28:20 : INFO] - File: IMG_9263-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:28:27 : INFO] - Backing up the original image - 2025/03/IMG_9263-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:28:40 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9263-scaled.jpg.The file was compressed from 443.58 KB to 443.58 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:28:40 : INFO] - Completed processing task with ID : 302, and type 'smush' 
+[2025-05-18 15:28:40 : INFO] - Processing task with ID : 303, and type 'smush' 
+[2025-05-18 15:28:40 : INFO] - Re_Smush_It_Task - Attachment ID : 68, Started on : May 18, 2025 03:07:52 
+[2025-05-18 15:28:40 : INFO] - File: IMG_9277-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:28:46 : INFO] - Backing up the original image - 2025/03/IMG_9277-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:28:59 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9277-scaled.jpg.The file was compressed from 383.28 KB to 383.28 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:28:59 : INFO] - Completed processing task with ID : 303, and type 'smush' 
+[2025-05-18 15:28:59 : INFO] - Processing task with ID : 304, and type 'smush' 
+[2025-05-18 15:28:59 : INFO] - Re_Smush_It_Task - Attachment ID : 69, Started on : May 18, 2025 03:07:52 
+[2025-05-18 15:28:59 : INFO] - File: IMG_9290-scaled.jpg, Compression quality: 92 
+[2025-05-18 15:29:04 : INFO] - A total of 21 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:29:04 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:29:04 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:29:04 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:29:04 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-05-18 15:29:06 : INFO] - Backing up the original image - 2025/03/IMG_9290-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 15:29:19 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9290-scaled.jpg.The file was compressed from 410.64 KB to 410.64 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:29:19 : INFO] - Completed processing task with ID : 304, and type 'smush' 
+[2025-05-18 15:29:19 : INFO] - Processing task with ID : 305, and type 'smush' 
+[2025-05-18 15:29:19 : INFO] - Re_Smush_It_Task with attachment ID : 795, autocreated on : May 18, 2025 03:11:41 
+[2025-05-18 15:29:19 : INFO] - File: 6-1.png, Compression quality: 92 
+[2025-05-18 15:29:21 : INFO] - Backing up the original image - 2025/05/6-1-updraft-pre-smush-original.png 
+[2025-05-18 15:29:27 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/6-1.png.The file was compressed from 573.88 KB to 171.57 KB, saving 70.1 percent, using WP-Optimize 
+[2025-05-18 15:29:27 : INFO] - Completed processing task with ID : 305, and type 'smush' 
+[2025-05-18 15:29:27 : INFO] - Processing task with ID : 306, and type 'smush' 
+[2025-05-18 15:29:27 : INFO] - Re_Smush_It_Task with attachment ID : 796, autocreated on : May 18, 2025 03:11:42 
+[2025-05-18 15:29:27 : INFO] - File: 7.jpg, Compression quality: 92 
+[2025-05-18 15:29:28 : INFO] - Backing up the original image - 2025/05/7-updraft-pre-smush-original.jpg 
+[2025-05-18 15:29:30 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/7.jpg.The file was compressed from 28.78 KB to 27.89 KB, saving 3.08 percent, using WP-Optimize 
+[2025-05-18 15:29:30 : INFO] - Completed processing task with ID : 306, and type 'smush' 
+[2025-05-18 15:29:30 : INFO] - Processing task with ID : 307, and type 'smush' 
+[2025-05-18 15:29:30 : INFO] - Re_Smush_It_Task with attachment ID : 797, autocreated on : May 18, 2025 03:11:43 
+[2025-05-18 15:29:30 : INFO] - File: 8.jpg, Compression quality: 92 
+[2025-05-18 15:29:31 : INFO] - Backing up the original image - 2025/05/8-updraft-pre-smush-original.jpg 
+[2025-05-18 15:29:34 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/8.jpg.The file was compressed from 86.88 KB to 85.67 KB, saving 1.39 percent, using WP-Optimize 
+[2025-05-18 15:29:34 : INFO] - Completed processing task with ID : 307, and type 'smush' 
+[2025-05-18 15:29:34 : INFO] - Processing task with ID : 308, and type 'smush' 
+[2025-05-18 15:29:34 : INFO] - Re_Smush_It_Task with attachment ID : 798, autocreated on : May 18, 2025 03:11:49 
+[2025-05-18 15:29:34 : INFO] - File: 9-1.png, Compression quality: 92 
+[2025-05-18 15:29:36 : INFO] - Backing up the original image - 2025/05/9-1-updraft-pre-smush-original.png 
+[2025-05-18 15:29:40 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/9-1.png.The file was compressed from 708.30 KB to 171.63 KB, saving 75.77 percent, using WP-Optimize 
+[2025-05-18 15:29:40 : INFO] - Completed processing task with ID : 308, and type 'smush' 
+[2025-05-18 15:29:40 : INFO] - Processing task with ID : 309, and type 'smush' 
+[2025-05-18 15:29:40 : INFO] - Re_Smush_It_Task with attachment ID : 799, autocreated on : May 18, 2025 03:11:55 
+[2025-05-18 15:29:40 : INFO] - File: 10-1.png, Compression quality: 92 
+[2025-05-18 15:29:40 : INFO] - Re_Smush_It_Task with attachment ID : 834, autocreated on : May 18, 2025 03:29:40 
+[2025-05-18 15:29:41 : INFO] - Backing up the original image - 2025/05/10-1-updraft-pre-smush-original.png 
+[2025-05-18 15:29:48 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/10-1.png.The file was compressed from 617.15 KB to 217.94 KB, saving 64.69 percent, using WP-Optimize 
+[2025-05-18 15:29:48 : INFO] - Completed processing task with ID : 309, and type 'smush' 
+[2025-05-18 15:29:48 : INFO] - Processing task with ID : 310, and type 'smush' 
+[2025-05-18 15:29:48 : INFO] - Re_Smush_It_Task with attachment ID : 800, autocreated on : May 18, 2025 03:12:11 
+[2025-05-18 15:29:48 : INFO] - File: 11-1.png, Compression quality: 92 
+[2025-05-18 15:29:51 : INFO] - Backing up the original image - 2025/05/11-1-updraft-pre-smush-original.png 
+[2025-05-18 15:29:59 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/11-1.png.The file was compressed from 1.70 MB to 378.00 KB, saving 78.33 percent, using WP-Optimize 
+[2025-05-18 15:29:59 : INFO] - Completed processing task with ID : 310, and type 'smush' 
+[2025-05-18 15:29:59 : INFO] - Processing task with ID : 311, and type 'smush' 
+[2025-05-18 15:29:59 : INFO] - Re_Smush_It_Task with attachment ID : 801, autocreated on : May 18, 2025 03:12:16 
+[2025-05-18 15:29:59 : INFO] - File: 12-1.png, Compression quality: 92 
+[2025-05-18 15:30:00 : INFO] - Backing up the original image - 2025/05/12-1-updraft-pre-smush-original.png 
+[2025-05-18 15:30:03 : INFO] - A total of 15 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:30:03 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-05-18 15:31:05 : INFO] - A total of 15 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:31:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 15:31:05 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 15:31:05 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 15:31:05 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2025-05-18 15:33:17 : INFO] - Re_Smush_It_Task with attachment ID : 841, autocreated on : May 18, 2025 03:33:17 
+[2025-05-18 15:35:07 : INFO] - A total of 16 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:35:07 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-05-18 15:35:07 : INFO] - Processing task with ID : 311, and type 'smush' 
+[2025-05-18 15:35:07 : INFO] - Re_Smush_It_Task with attachment ID : 801, autocreated on : May 18, 2025 03:12:16 
+[2025-05-18 15:35:07 : INFO] - File: 12-1.png, Compression quality: 92 
+[2025-05-18 15:35:07 : INFO] - Backing up the original image - 2025/05/12-1-updraft-pre-smush-original.png 
+[2025-05-18 15:35:10 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/12-1.png.The file was compressed from 111.19 KB to 111.19 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 15:35:10 : INFO] - Completed processing task with ID : 311, and type 'smush' 
+[2025-05-18 15:35:10 : INFO] - Processing task with ID : 312, and type 'smush' 
+[2025-05-18 15:35:10 : INFO] - Re_Smush_It_Task with attachment ID : 802, autocreated on : May 18, 2025 03:12:20 
+[2025-05-18 15:35:10 : INFO] - File: 13-1.png, Compression quality: 92 
+[2025-05-18 15:35:11 : INFO] - Backing up the original image - 2025/05/13-1-updraft-pre-smush-original.png 
+[2025-05-18 15:35:15 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/13-1.png.The file was compressed from 405.71 KB to 139.30 KB, saving 65.67 percent, using WP-Optimize 
+[2025-05-18 15:35:15 : INFO] - Completed processing task with ID : 312, and type 'smush' 
+[2025-05-18 15:35:15 : INFO] - Processing task with ID : 313, and type 'smush' 
+[2025-05-18 15:35:15 : INFO] - Re_Smush_It_Task with attachment ID : 803, autocreated on : May 18, 2025 03:12:21 
+[2025-05-18 15:35:15 : INFO] - File: 14-1.png, Compression quality: 92 
+[2025-05-18 15:35:16 : INFO] - Backing up the original image - 2025/05/14-1-updraft-pre-smush-original.png 
+[2025-05-18 15:35:18 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/14-1.png.The file was compressed from 165.05 KB to 60.13 KB, saving 63.57 percent, using WP-Optimize 
+[2025-05-18 15:35:18 : INFO] - Completed processing task with ID : 313, and type 'smush' 
+[2025-05-18 15:35:18 : INFO] - Processing task with ID : 314, and type 'smush' 
+[2025-05-18 15:35:18 : INFO] - Re_Smush_It_Task with attachment ID : 804, autocreated on : May 18, 2025 03:12:22 
+[2025-05-18 15:35:18 : INFO] - File: 15.jpg, Compression quality: 92 
+[2025-05-18 15:35:19 : INFO] - Backing up the original image - 2025/05/15-updraft-pre-smush-original.jpg 
+[2025-05-18 15:35:22 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/15.jpg.The file was compressed from 53.31 KB to 48.56 KB, saving 8.91 percent, using WP-Optimize 
+[2025-05-18 15:35:22 : INFO] - Completed processing task with ID : 314, and type 'smush' 
+[2025-05-18 15:35:22 : INFO] - Processing task with ID : 315, and type 'smush' 
+[2025-05-18 15:35:22 : INFO] - Re_Smush_It_Task with attachment ID : 805, autocreated on : May 18, 2025 03:12:23 
+[2025-05-18 15:35:22 : INFO] - File: 4.jpg, Compression quality: 92 
+[2025-05-18 15:35:23 : INFO] - Backing up the original image - 2025/05/4-updraft-pre-smush-original.jpg 
+[2025-05-18 15:35:25 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/4.jpg.The file was compressed from 21.56 KB to 18.02 KB, saving 16.41 percent, using WP-Optimize 
+[2025-05-18 15:35:25 : INFO] - Completed processing task with ID : 315, and type 'smush' 
+[2025-05-18 15:35:25 : INFO] - Processing task with ID : 322, and type 'smush' 
+[2025-05-18 15:35:25 : INFO] - Re_Smush_It_Task with attachment ID : 817, autocreated on : May 18, 2025 03:25:09 
+[2025-05-18 15:35:25 : INFO] - File: L8.png, Compression quality: 92 
+[2025-05-18 15:35:26 : INFO] - Backing up the original image - 2025/05/L8-updraft-pre-smush-original.png 
+[2025-05-18 15:35:28 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/L8.png.The file was compressed from 214.25 KB to 116.86 KB, saving 45.46 percent, using WP-Optimize 
+[2025-05-18 15:35:28 : INFO] - Completed processing task with ID : 322, and type 'smush' 
+[2025-05-18 15:35:28 : INFO] - Processing task with ID : 323, and type 'smush' 
+[2025-05-18 15:35:28 : INFO] - Re_Smush_It_Task with attachment ID : 818, autocreated on : May 18, 2025 03:25:10 
+[2025-05-18 15:35:28 : INFO] - File: l7.png, Compression quality: 92 
+[2025-05-18 15:35:29 : INFO] - Backing up the original image - 2025/05/l7-updraft-pre-smush-original.png 
+[2025-05-18 15:35:30 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/l7.png.The file was compressed from 75.47 KB to 36.41 KB, saving 51.75 percent, using WP-Optimize 
+[2025-05-18 15:35:30 : INFO] - Completed processing task with ID : 323, and type 'smush' 
+[2025-05-18 15:35:30 : INFO] - Processing task with ID : 324, and type 'smush' 
+[2025-05-18 15:35:30 : INFO] - Re_Smush_It_Task with attachment ID : 819, autocreated on : May 18, 2025 03:25:11 
+[2025-05-18 15:35:30 : INFO] - File: l6.png, Compression quality: 92 
+[2025-05-18 15:35:31 : INFO] - Backing up the original image - 2025/05/l6-updraft-pre-smush-original.png 
+[2025-05-18 15:35:32 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/l6.png.The file was compressed from 30.85 KB to 11.25 KB, saving 63.55 percent, using WP-Optimize 
+[2025-05-18 15:35:32 : INFO] - Completed processing task with ID : 324, and type 'smush' 
+[2025-05-18 15:35:32 : INFO] - Processing task with ID : 325, and type 'smush' 
+[2025-05-18 15:35:32 : INFO] - Re_Smush_It_Task with attachment ID : 820, autocreated on : May 18, 2025 03:25:12 
+[2025-05-18 15:35:32 : INFO] - File: l5.png, Compression quality: 92 
+[2025-05-18 15:35:33 : INFO] - Backing up the original image - 2025/05/l5-updraft-pre-smush-original.png 
+[2025-05-18 15:35:34 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/l5.png.The file was compressed from 110.39 KB to 48.67 KB, saving 55.91 percent, using WP-Optimize 
+[2025-05-18 15:35:34 : INFO] - Completed processing task with ID : 325, and type 'smush' 
+[2025-05-18 15:35:34 : INFO] - Processing task with ID : 326, and type 'smush' 
+[2025-05-18 15:35:34 : INFO] - Re_Smush_It_Task with attachment ID : 821, autocreated on : May 18, 2025 03:25:12 
+[2025-05-18 15:35:34 : INFO] - File: l3.png, Compression quality: 92 
+[2025-05-18 15:35:35 : INFO] - Backing up the original image - 2025/05/l3-updraft-pre-smush-original.png 
+[2025-05-18 15:35:36 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/l3.png.The file was compressed from 24.16 KB to 8.35 KB, saving 65.45 percent, using WP-Optimize 
+[2025-05-18 15:35:36 : INFO] - Completed processing task with ID : 326, and type 'smush' 
+[2025-05-18 15:35:36 : INFO] - Processing task with ID : 327, and type 'smush' 
+[2025-05-18 15:35:36 : INFO] - Re_Smush_It_Task with attachment ID : 822, autocreated on : May 18, 2025 03:25:13 
+[2025-05-18 15:35:36 : INFO] - File: l4.png, Compression quality: 92 
+[2025-05-18 15:35:36 : INFO] - Backing up the original image - 2025/05/l4-updraft-pre-smush-original.png 
+[2025-05-18 15:35:38 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/l4.png.The file was compressed from 32.70 KB to 12.20 KB, saving 62.7 percent, using WP-Optimize 
+[2025-05-18 15:35:38 : INFO] - Completed processing task with ID : 327, and type 'smush' 
+[2025-05-18 15:35:38 : INFO] - Processing task with ID : 328, and type 'smush' 
+[2025-05-18 15:35:38 : INFO] - Re_Smush_It_Task with attachment ID : 823, autocreated on : May 18, 2025 03:25:14 
+[2025-05-18 15:35:38 : INFO] - File: l2.png, Compression quality: 92 
+[2025-05-18 15:35:38 : INFO] - Backing up the original image - 2025/05/l2-updraft-pre-smush-original.png 
+[2025-05-18 15:35:39 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/l2.png.The file was compressed from 30.71 KB to 10.65 KB, saving 65.31 percent, using WP-Optimize 
+[2025-05-18 15:35:39 : INFO] - Completed processing task with ID : 328, and type 'smush' 
+[2025-05-18 15:35:39 : INFO] - Processing task with ID : 329, and type 'smush' 
+[2025-05-18 15:35:39 : INFO] - Re_Smush_It_Task with attachment ID : 824, autocreated on : May 18, 2025 03:25:14 
+[2025-05-18 15:35:39 : INFO] - File: l1.png, Compression quality: 92 
+[2025-05-18 15:35:40 : INFO] - Backing up the original image - 2025/05/l1-updraft-pre-smush-original.png 
+[2025-05-18 15:35:41 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/l1.png.The file was compressed from 27.25 KB to 10.03 KB, saving 63.19 percent, using WP-Optimize 
+[2025-05-18 15:35:41 : INFO] - Completed processing task with ID : 329, and type 'smush' 
+[2025-05-18 15:35:41 : INFO] - Processing task with ID : 330, and type 'smush' 
+[2025-05-18 15:35:41 : INFO] - Re_Smush_It_Task with attachment ID : 830, autocreated on : May 18, 2025 03:27:48 
+[2025-05-18 15:35:41 : INFO] - File: c13.png, Compression quality: 92 
+[2025-05-18 15:35:46 : INFO] - Backing up the original image - 2025/05/c13-updraft-pre-smush-original.png 
+[2025-05-18 15:35:58 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/c13.png.The file was compressed from 2.37 MB to 927.58 KB, saving 61.76 percent, using WP-Optimize 
+[2025-05-18 15:35:58 : INFO] - Completed processing task with ID : 330, and type 'smush' 
+[2025-05-18 15:35:58 : INFO] - Processing task with ID : 331, and type 'smush' 
+[2025-05-18 15:35:58 : INFO] - Re_Smush_It_Task with attachment ID : 834, autocreated on : May 18, 2025 03:29:40 
+[2025-05-18 15:35:58 : INFO] - File: L-NGOs.png, Compression quality: 92 
+[2025-05-18 15:35:59 : INFO] - Backing up the original image - 2025/05/L-NGOs-updraft-pre-smush-original.png 
+[2025-05-18 15:36:00 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/L-NGOs.png.The file was compressed from 29.79 KB to 11.58 KB, saving 61.12 percent, using WP-Optimize 
+[2025-05-18 15:36:00 : INFO] - Completed processing task with ID : 331, and type 'smush' 
+[2025-05-18 15:36:00 : INFO] - Processing task with ID : 334, and type 'smush' 
+[2025-05-18 15:36:00 : INFO] - Re_Smush_It_Task with attachment ID : 841, autocreated on : May 18, 2025 03:33:17 
+[2025-05-18 15:36:00 : INFO] - File: l-unicef.png, Compression quality: 92 
+[2025-05-18 15:36:01 : INFO] - Backing up the original image - 2025/05/l-unicef-updraft-pre-smush-original.png 
+[2025-05-18 15:36:02 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/l-unicef.png.The file was compressed from 105.63 KB to 62.37 KB, saving 40.95 percent, using WP-Optimize 
+[2025-05-18 15:36:02 : INFO] - Completed processing task with ID : 334, and type 'smush' 
+[2025-05-18 15:36:02 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-05-18 15:36:02 : INFO] - Successfully processed the queue (smush). 16 tasks were processed out of 16. 
+[2025-05-18 15:36:02 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-05-18 15:36:02 : INFO] - Cleaning up tasks of type (smush). A total of 16 tasks will be deleted. 
+[2025-05-18 15:50:04 : INFO] - Re_Smush_It_Task with attachment ID : 885, autocreated on : May 18, 2025 03:50:04 
+[2025-05-18 15:50:37 : INFO] - Re_Smush_It_Task with attachment ID : 889, autocreated on : May 18, 2025 03:50:37 
+[2025-05-18 15:50:43 : INFO] - Re_Smush_It_Task with attachment ID : 890, autocreated on : May 18, 2025 03:50:43 
+[2025-05-18 15:51:15 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 15:51:15 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-05-18 15:51:15 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-05-18 15:51:15 : INFO] - Processing task with ID : 363, and type 'smush' 
+[2025-05-18 15:51:15 : INFO] - Re_Smush_It_Task with attachment ID : 885, autocreated on : May 18, 2025 03:50:04 
+[2025-05-18 15:51:15 : INFO] - File: m3.png, Compression quality: 92 
+[2025-05-18 15:51:18 : INFO] - Backing up the original image - 2025/05/m3-updraft-pre-smush-original.png 
+[2025-05-18 15:51:30 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/m3.png.The file was compressed from 2.11 MB to 587.21 KB, saving 72.78 percent, using WP-Optimize 
+[2025-05-18 15:51:30 : INFO] - Completed processing task with ID : 363, and type 'smush' 
+[2025-05-18 15:51:30 : INFO] - Processing task with ID : 366, and type 'smush' 
+[2025-05-18 15:51:30 : INFO] - Re_Smush_It_Task with attachment ID : 889, autocreated on : May 18, 2025 03:50:37 
+[2025-05-18 15:51:30 : INFO] - File: m2.png, Compression quality: 92 
+[2025-05-18 15:51:34 : INFO] - Backing up the original image - 2025/05/m2-updraft-pre-smush-original.png 
+[2025-05-18 15:51:44 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/m2.png.The file was compressed from 1.70 MB to 540.30 KB, saving 68.88 percent, using WP-Optimize 
+[2025-05-18 15:51:44 : INFO] - Completed processing task with ID : 366, and type 'smush' 
+[2025-05-18 15:51:44 : INFO] - Processing task with ID : 367, and type 'smush' 
+[2025-05-18 15:51:44 : INFO] - Re_Smush_It_Task with attachment ID : 890, autocreated on : May 18, 2025 03:50:43 
+[2025-05-18 15:51:44 : INFO] - File: m1.png, Compression quality: 92 
+[2025-05-18 15:51:48 : INFO] - Backing up the original image - 2025/05/m1-updraft-pre-smush-original.png 
+[2025-05-18 15:51:58 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/05/m1.png.The file was compressed from 1.88 MB to 580.56 KB, saving 69.87 percent, using WP-Optimize 
+[2025-05-18 15:51:58 : INFO] - Completed processing task with ID : 367, and type 'smush' 
+[2025-05-18 15:51:58 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-05-18 15:51:58 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-05-18 15:51:58 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-05-18 15:51:58 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-05-18 17:07:54 : INFO] - Pruning the smush log file 
+[2025-05-18 18:39:54 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-05-18 18:39:54 : INFO] - A total of 15 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 18:39:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-05-18 18:39:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-05-18 18:39:54 : INFO] - Processing task with ID : 447, and type 'smush' 
+[2025-05-18 18:39:54 : INFO] - Re_Smush_It_Task - Attachment ID : 70, Started on : May 18, 2025 06:39:54 
+[2025-05-18 18:39:54 : INFO] - File: DSC00501-scaled.jpg, Compression quality: 90 
+[2025-05-18 18:40:01 : INFO] - Backing up the original image - 2025/03/DSC00501-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 18:40:15 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/DSC00501-scaled.jpg.The file was compressed from 501.83 KB to 487.36 KB, saving 2.88 percent, using WP-Optimize 
+[2025-05-18 18:40:15 : INFO] - Completed processing task with ID : 447, and type 'smush' 
+[2025-05-18 18:40:15 : INFO] - Processing task with ID : 448, and type 'smush' 
+[2025-05-18 18:40:15 : INFO] - Re_Smush_It_Task - Attachment ID : 87, Started on : May 18, 2025 06:39:54 
+[2025-05-18 18:40:15 : INFO] - File: IMG_9247-scaled.jpg, Compression quality: 90 
+[2025-05-18 18:40:21 : INFO] - Backing up the original image - 2025/03/IMG_9247-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 18:40:34 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9247-scaled.jpg.The file was compressed from 483.74 KB to 483.74 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 18:40:34 : INFO] - Completed processing task with ID : 448, and type 'smush' 
+[2025-05-18 18:40:34 : INFO] - Processing task with ID : 449, and type 'smush' 
+[2025-05-18 18:40:34 : INFO] - Task with ID 449 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C3.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:34 : INFO] - Processing task with ID : 450, and type 'smush' 
+[2025-05-18 18:40:34 : INFO] - Task with ID 450 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/K1.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:34 : INFO] - Processing task with ID : 451, and type 'smush' 
+[2025-05-18 18:40:34 : INFO] - Task with ID 451 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M21.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:34 : INFO] - Processing task with ID : 452, and type 'smush' 
+[2025-05-18 18:40:34 : INFO] - Task with ID 452 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/P4.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:34 : INFO] - Processing task with ID : 453, and type 'smush' 
+[2025-05-18 18:40:34 : INFO] - Task with ID 453 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M5.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:34 : INFO] - Processing task with ID : 454, and type 'smush' 
+[2025-05-18 18:40:34 : INFO] - Task with ID 454 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C23.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:34 : INFO] - Processing task with ID : 455, and type 'smush' 
+[2025-05-18 18:40:34 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : May 18, 2025 06:39:54 
+[2025-05-18 18:40:34 : INFO] - File: IMG_1322-scaled.jpg, Compression quality: 90 
+[2025-05-18 18:40:42 : INFO] - Backing up the original image - 2025/03/IMG_1322-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 18:40:55 : INFO] - A total of 15 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 18:40:55 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-05-18 18:40:55 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-05-18 18:40:55 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-05-18 18:40:55 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-05-18 18:40:56 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_1322-scaled.jpg.The file was compressed from 528.54 KB to 528.54 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 18:40:56 : INFO] - Completed processing task with ID : 455, and type 'smush' 
+[2025-05-18 18:40:56 : INFO] - Processing task with ID : 456, and type 'smush' 
+[2025-05-18 18:40:56 : INFO] - Task with ID 456 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/K3.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:56 : INFO] - Processing task with ID : 457, and type 'smush' 
+[2025-05-18 18:40:56 : INFO] - Task with ID 457 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M22.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:56 : INFO] - Processing task with ID : 458, and type 'smush' 
+[2025-05-18 18:40:56 : INFO] - Task with ID 458 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C2.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:56 : INFO] - Processing task with ID : 459, and type 'smush' 
+[2025-05-18 18:40:56 : INFO] - Task with ID 459 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C5.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:56 : INFO] - Processing task with ID : 460, and type 'smush' 
+[2025-05-18 18:40:56 : INFO] - Task with ID 460 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M8.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:56 : INFO] - Processing task with ID : 461, and type 'smush' 
+[2025-05-18 18:40:56 : INFO] - Task with ID 461 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M6.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:40:56 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-05-18 18:40:56 : INFO] - Successfully processed the queue (smush). 15 tasks were processed out of 15. 
+[2025-05-18 18:40:56 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-05-18 18:40:56 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-18 18:42:56 : INFO] - A total of 8 tasks of type smush found and will be processed in this iteration 
+[2025-05-18 18:42:56 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-05-18 18:42:56 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-05-18 18:42:56 : INFO] - Processing task with ID : 462, and type 'smush' 
+[2025-05-18 18:42:56 : INFO] - Re_Smush_It_Task - Attachment ID : 70, Started on : May 18, 2025 06:40:55 
+[2025-05-18 18:42:56 : INFO] - File: DSC00501-scaled.jpg, Compression quality: 90 
+[2025-05-18 18:43:04 : INFO] - Backing up the original image - 2025/03/DSC00501-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 18:43:18 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/DSC00501-scaled.jpg.The file was compressed from 487.36 KB to 487.36 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 18:43:18 : INFO] - Completed processing task with ID : 462, and type 'smush' 
+[2025-05-18 18:43:18 : INFO] - Processing task with ID : 463, and type 'smush' 
+[2025-05-18 18:43:18 : INFO] - Re_Smush_It_Task - Attachment ID : 87, Started on : May 18, 2025 06:40:55 
+[2025-05-18 18:43:18 : INFO] - File: IMG_9247-scaled.jpg, Compression quality: 90 
+[2025-05-18 18:43:24 : INFO] - Backing up the original image - 2025/03/IMG_9247-scaled-updraft-pre-smush-original.jpg 
+[2025-05-18 18:43:37 : INFO] - Successfully optimized the image - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/IMG_9247-scaled.jpg.The file was compressed from 483.74 KB to 483.74 KB, saving 0 percent, using WP-Optimize 
+[2025-05-18 18:43:37 : INFO] - Completed processing task with ID : 463, and type 'smush' 
+[2025-05-18 18:43:37 : INFO] - Processing task with ID : 464, and type 'smush' 
+[2025-05-18 18:43:37 : INFO] - Task with ID 464 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C3.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:43:37 : INFO] - Processing task with ID : 465, and type 'smush' 
+[2025-05-18 18:43:37 : INFO] - Task with ID 465 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/K1.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:43:37 : INFO] - Processing task with ID : 466, and type 'smush' 
+[2025-05-18 18:43:37 : INFO] - Task with ID 466 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M21.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:43:37 : INFO] - Processing task with ID : 467, and type 'smush' 
+[2025-05-18 18:43:37 : INFO] - Task with ID 467 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/P4.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:43:37 : INFO] - Processing task with ID : 468, and type 'smush' 
+[2025-05-18 18:43:37 : INFO] - Task with ID 468 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/M5.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:43:37 : INFO] - Processing task with ID : 469, and type 'smush' 
+[2025-05-18 18:43:37 : INFO] - Task with ID 469 and type (smush) failed with error code exceeded_max_filesize - /home/raho2855/public_html/crsdsenegal/wp-content/uploads/2025/03/C23.png - cannot be optimized, file size is above service provider limit 
+[2025-05-18 18:43:37 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-05-18 18:43:37 : INFO] - Successfully processed the queue (smush). 8 tasks were processed out of 8. 
+[2025-05-18 18:43:37 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-05-18 18:43:37 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-05-18 19:09:47 : INFO] - Pruning the smush log file 
+[2025-05-18 21:48:39 : INFO] - Pruning the smush log file 
